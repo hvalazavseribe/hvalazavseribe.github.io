@@ -26,6 +26,10 @@ Zaenkrat smo na sledečih platformah: Anchor, Breaker, Castbox, Pocket Casts, Ov
 
 Če nas tam oceniš, bomo še bolj veseli!
 
+## Tako da posanmeš citat iz Štoparca, mi ga pa objavimo v epizodi.
+
+Preprosto. Posnameš se (kar s telefonom bo v redu) in nam posnetek pošlješ na mail podkast afna zvpl pika com.
+
 ## Tako da nas podpreš
 
 - na Paypalu (ne še)
