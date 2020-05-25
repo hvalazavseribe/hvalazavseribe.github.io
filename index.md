@@ -44,6 +44,7 @@ Podpreš nas lahko na več načinov
 
 Hvala za vse ribe! 🐟
 
-<br />
+<br/>
 
 &copy; 2020 - hvalazavseribe.si
+<small>Site design inspired by [motherfuckingwebsite.com](http://motherfuckingwebsite.com)</small>
