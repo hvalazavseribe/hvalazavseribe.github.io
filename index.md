@@ -1,10 +1,24 @@
 # Hvala za vse ribe
 
+Pozdravljen/a!
+
+Hvala, ker nas poslušaš in hvala, ker si prideskal/a na našo podporno spletno stran.
+
+### Kako lahko pomagam?
+
 Podkastu [Opravičujemo se za vse nevšečnosti](https://anchor.fm/opravicujemose) lahko pomagaš na tri načine.
 
 ## Tako, da deliš naš podkast med prijatelji in nam slediš tudi sam
 
-Poveš jim, da smo na [Twitterju](https://twitter.com/opravicujemose), na [Instagramu](instagram.com/opravicujemose), na [Facebooku](), ali pa nas na teh družabnih omrežjih tudi slediš. Hvala!
+Poveš jim, da smo na
+- [Twitterju](https://twitter.com/opravicujemose),
+- [Instagramu](https://instagram.com/opravicujemose),
+- [Facebooku](https://www.facebook.com/opravicujemose)
+ali pa nas na teh družabnih omrežjih tudi slediš. 
+
+Lahko obiščeš tudi spletno stran podkasta [http://opravicujemo.se](opravicujemo.se)!
+
+Hvala!
 
 ## Tako, da nas oceniš v svojem priljubljenem podkast odjemalcu.
 
