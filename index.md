@@ -12,7 +12,7 @@ Prvi trije ne bolijo prav zelo, v bistvu želimo le da se povežeš z nami in da
 
 ## Tako, da deliš naš podkast med prijatelji in nam slediš tudi sam/a!
 
-Poveš jim, da smo na
+Poveš jim, da smo na:
 - [Twitterju](https://twitter.com/opravicujemose),
 - [Instagramu](https://instagram.com/opravicujemose),
 - [Facebooku](https://www.facebook.com/opravicujemose),
