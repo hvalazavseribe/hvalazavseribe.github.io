@@ -49,5 +49,5 @@ Hvala za vse ribe! 🐟
 - kupiš jih pri založbi Pivec
 - sposodiš si jih lahko na Biblosu
 
-&copy; 2020 - hvalazavseribe.si
+&copy; 2020 - hvalazavseribe.si <br />
 <small>Site design inspired by [motherfuckingwebsite.com](http://motherfuckingwebsite.com)</small>
