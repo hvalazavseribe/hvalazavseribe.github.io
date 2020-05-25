@@ -20,13 +20,13 @@ Lahko obiščeš tudi spletno stran podkasta [http://opravicujemo.se](opravicuje
 
 Hvala!
 
-## Tako, da nas oceniš v svojem priljubljenem podkast odjemalcu.
+## Tako, da nas oceniš v svojem priljubljenem podkast odjemalcu
 
 Zaenkrat smo na sledečih platformah: Anchor, Breaker, Castbox, Pocket Casts, Overcast in Spotify.
 
 Če nas tam oceniš, bomo še bolj veseli!
 
-## Tako da posanmeš citat iz Štoparca, mi ga pa objavimo v epizodi.
+## Tako da posanmeš citat iz Štoparca, mi ga pa objavimo v epizodi
 
 Preprosto. Posnameš se (kar s telefonom bo v redu) in nam posnetek pošlješ na mail podkast afna zvpl pika com.
 
