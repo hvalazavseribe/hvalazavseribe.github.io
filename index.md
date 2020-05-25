@@ -6,7 +6,7 @@ Hvala, ker nas poslušaš in hvala, ker si prideskal/a na našo podporno spletno
 
 ### Kako lahko pomagam?
 
-Podkastu [Opravičujemo se za vse nevšečnosti](https://anchor.fm/opravicujemose) lahko pomagaš na tri načine.
+Podkastu [Opravičujemo se za vse nevšečnosti](https://anchor.fm/opravicujemose) lahko pomagaš na štiri načine.
 
 ## Tako, da deliš naš podkast med prijatelji in nam slediš tudi sam
 
