@@ -1,1 +1,12 @@
-theme: jekyll-theme-minimal
+title : Hvala za vse ribe
+tagline: Zahvaljujemo se vam za vse ribe
+description: Podkast o knjigi, ki jo poznajo le redki prebivalci tega nepomembnega modro-zelenega planeta. Bolj natančno o petih knjigah, ki govorijo o prej omenjeni knjigi. Avtorji se že vnaprej opravičujemo za vse nevšečnosti, ki bi morda lahko nastale ob in po poslušanju tega podkasta. 
+author :
+  name : Davorin Pavlica
+  email : davorin.pavlica@zvpl.com
+  github : davorinpavlica
+  twitter : davorinpavlica
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+facebook_username: felinafilm
+# production_url : http://www.felinafilms.si
