@@ -1,7 +1,5 @@
 # Hvala za vse ribe
 
-🐬 🐬 🐬
-
 Pozdravljen/a!
 
 Hvala, ker nas poslušaš in hvala, ker si prideskal/a na našo podporno spletno stran.
@@ -10,13 +8,13 @@ Hvala, ker nas poslušaš in hvala, ker si prideskal/a na našo podporno spletno
 
 Podkastu [Opravičujemo se za vse nevšečnosti](https://anchor.fm/opravicujemose) lahko pomagaš na štiri načine.
 
-## Tako, da deliš naš podkast med prijatelji in nam slediš tudi sam
+## Tako, da deliš naš podkast med prijatelji in nam slediš tudi sam/a
 
 Poveš jim, da smo na
 - [Twitterju](https://twitter.com/opravicujemose),
 - [Instagramu](https://instagram.com/opravicujemose),
 - [Facebooku](https://www.facebook.com/opravicujemose)
-ali pa nas na teh družabnih omrežjih tudi slediš. 
+ali pa nas na teh družabnih omrežjih tudi sam/a slediš. 
 
 Lahko obiščeš tudi spletno stran podkasta [http://opravicujemo.se](opravicujemo.se)!
 
@@ -39,3 +37,6 @@ Preprosto. Posnameš se (kar s telefonom bo v redu) in nam posnetek pošlješ na
 - nam plačaš pivo ali kavo, če nas vidiš kjerkoli že smo. Radi večerjamo v Restavraciji ob koncu vesolja.
 
 Hvala za vse ribe! 🐟
+
+
+&copy 20202 - hvalazavseribe.si
