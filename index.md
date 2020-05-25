@@ -44,7 +44,10 @@ Podpreš nas lahko na več načinov
 
 Hvala za vse ribe! 🐟
 
-<br/>
+### Če bi rad/a bral/a knjige Štoparski vodnik po Galaksiji
+
+- kupiš jih pri založbi Pivec
+- sposodiš si jih lahko na Biblosu
 
 &copy; 2020 - hvalazavseribe.si
 <small>Site design inspired by [motherfuckingwebsite.com](http://motherfuckingwebsite.com)</small>
