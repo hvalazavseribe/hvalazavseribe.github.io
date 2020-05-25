@@ -22,7 +22,7 @@ Hvala!
 
 ## Tako, da nas oceniš v svojem priljubljenem podkast odjemalcu
 
-Zaenkrat smo na sledečih platformah: Anchor, Breaker, Castbox, Pocket Casts, Overcast in Spotify.
+Zaenkrat smo na sledečih platformah: [Anchor](https://anchor.fm/opravicujemose), [Breaker](https://www.breaker.audio/opravicujemo-se-za-vse-nevsecnosti), [Castbox](https://castbox.fm/channel/id2911541), [Overcast](https://overcast.fm/p1800312-cfXucP), [Pocket Casts](https://pca.st/zqlh1e4s) in [Spotify](https://open.spotify.com/show/6bYBLlFmu4lXZMuyzk9LOK?si=AZb30K9XQlO6QhsroUELFw).
 
 Če nas tam oceniš, bomo še bolj veseli!
 
