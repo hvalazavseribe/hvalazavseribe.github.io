@@ -39,4 +39,4 @@ Preprosto. Posnameš se (kar s telefonom bo v redu) in nam posnetek pošlješ na
 Hvala za vse ribe! 🐟
 
 
-&copy 20202 - hvalazavseribe.si
+&copy; 2020 - hvalazavseribe.si
