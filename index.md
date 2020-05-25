@@ -17,11 +17,7 @@ Poveš jim, da smo na
 - [Instagramu](https://instagram.com/opravicujemose),
 - [Facebooku](https://www.facebook.com/opravicujemose),
 
-... ali pa nas na teh družabnih omrežjih tudi sam/a slediš. 
-
-Lahko obiščeš tudi spletno stran podkasta [http://opravicujemo.se](opravicujemo.se)!
-
-Hvala! 🙏
+... ali pa nas na teh družabnih omrežjih tudi sam/a slediš. Lahko obiščeš tudi spletno stran podkasta [opravicujemo.se](http://opravicujemo.se! Hvala! 🙏
 
 ## Tako, da nas oceniš v svojem priljubljenem podkast odjemalcu!
 
