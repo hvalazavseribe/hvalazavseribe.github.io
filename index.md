@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Hvala za vse ribe
 
-You can use the [editor on GitHub](https://github.com/hvalazavseribe/hvalazavseribe.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Podkastu [Opravičujemo se za vse nevšečnosti](https://anchor.fm/opravicujemose) lahko pomagaš na tri načine.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Tako, da deliš naš podkast med prijatelji in nam slediš tudi sam
 
-### Markdown
+Poveš jim, da smo na [Twitterju](https://twitter.com/opravicujemose), na [Instagramu](instagram.com/opravicujemose), na [Facebooku](), ali pa nas na teh družabnih omrežjih tudi slediš. Hvala!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Tako, da nas oceniš v svojem priljubljenem podkast odjemalcu.
 
-```markdown
-Syntax highlighted code block
+Zaenkrat smo na sledečih platformah: Anchor, Breaker, Castbox, Pocket Casts, Overcast in Spotify.
 
-# Header 1
-## Header 2
-### Header 3
+Če nas tam oceniš, bomo še bolj veseli!
 
-- Bulleted
-- List
+## Tako da nas podpreš
 
-1. Numbered
-2. List
+- na Paypalu (ne še)
+- na Patreonu (ne še)
+- nam plačaš pivo ali kavo, če nas vidiš kjerkoli že smo. Radi večerjamo v Restavraciji ob koncu vesolja.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hvalazavseribe/hvalazavseribe.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Hvala za vse ribe! 🐟
