@@ -1,4 +1,4 @@
-# Hvala za vse ribe
+# Hvala za vse ribe 🐬
 
 Pozdravljen/a!
 
