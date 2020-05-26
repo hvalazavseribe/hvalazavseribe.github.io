@@ -21,9 +21,9 @@ Poveš jim, da smo na:
 
 ## Tako da nas oceniš v svojem priljubljenem podkast odjemalcu!
 
-Zaenkrat smo na sledečih platformah: [Anchor](https://anchor.fm/opravicujemose), [Breaker](https://www.breaker.audio/opravicujemo-se-za-vse-nevsecnosti), [Castbox](https://castbox.fm/channel/id2911541), [Overcast](https://overcast.fm/p1800312-cfXucP), [Pocket Casts](https://pca.st/zqlh1e4s) in [Spotify](https://open.spotify.com/show/6bYBLlFmu4lXZMuyzk9LOK?si=AZb30K9XQlO6QhsroUELFw).
+Smo na sledečih platformah: [Apple Podcasts](https://podcasts.apple.com/si/podcast/opravi%C4%8Dujemo-se-za-vse-nev%C5%A1e%C4%8Dnosti/id1514750013), [Anchor](https://anchor.fm/opravicujemose), [Breaker](https://www.breaker.audio/opravicujemo-se-za-vse-nevsecnosti), [Castbox](https://castbox.fm/channel/id2911541), [Overcast](https://overcast.fm/p1800312-cfXucP), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8yMmI1YTUwMC9wb2RjYXN0L3Jzcw), [Pocket Casts](https://pca.st/zqlh1e4s) in [Spotify](https://open.spotify.com/show/6bYBLlFmu4lXZMuyzk9LOK?si=AZb30K9XQlO6QhsroUELFw).
 
-Lahko nam pošlješ tudi epošto, bomo še bolj veseli! Ali pa vsaj toliko. Najbolje na e-poštni naslov **hvalazavseribe afna zvpl pika com**. Res hvala. 🙏
+Lahko nam pošlješ tudi e-pošto, bomo še bolj veseli! Ali pa vsaj toliko. Najbolje na e-poštni naslov **hvalazavseribe afna zvpl pika com**. Res hvala. 🙏
 
 ## Tako da posnameš citat iz Štoparca, mi ga pa objavimo v epizodi!
 
@@ -33,7 +33,7 @@ Lahko obiščeš [našo Anchor stran](), kjer nam lahko pošlješ svoj posnetek 
 
 ## Tako da nas podpreš:
 
-Podpreš nas lahko na več načinov
+Podpreš nas lahko na več načinov:
 - [na Patreonu (mesečna donacija)](https://www.patreon.com/opravicujemose)
 	- (1, 3, 7, 14, 21 ali 42 € / mesečno)
 - [na Paypalu (mesečna donacija)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NQ7EA2VV6LNWA&source=url)
@@ -45,7 +45,7 @@ Podpreš nas lahko na več načinov
 Hvala za vse ribe! 🐟
 
 
-#### Če bi rad/a bral/a knjige Štoparski vodnik po Galaksiji
+#### Bi rad/a bral/a knjige Štoparski vodnik po Galaksiji
 
 V odličnem slovenskem prevodu Alojza Kodreta:
 - jih lahko kupiš jih pri [založbi Pivec](https://zalozba-pivec.com/knjigarna?s=%C5%A1toparski+vodnik) ali
