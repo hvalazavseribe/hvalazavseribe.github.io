@@ -44,10 +44,13 @@ Podpreš nas lahko na več načinov
 
 Hvala za vse ribe! 🐟
 
-### Če bi rad/a bral/a knjige Štoparski vodnik po Galaksiji
 
-- kupiš jih pri založbi Pivec
-- sposodiš si jih lahko na Biblosu
+#### Če bi rad/a bral/a knjige Štoparski vodnik po Galaksiji
+
+- jih lahko kupiš jih pri [založbi Pivec](https://zalozba-pivec.com/knjigarna?s=%C5%A1toparski+vodnik) ali
+- si jih lahko izposodiš [na Biblosu](https://www.biblos.si/rezultati-iskanja?q=Douglas+Adams)
+
+
 
 &copy; 2020 - hvalazavseribe.si <br />
 <small>Site design inspired by [motherfuckingwebsite.com](http://motherfuckingwebsite.com)</small>
