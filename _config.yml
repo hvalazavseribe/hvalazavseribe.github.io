@@ -1,6 +1,6 @@
 title : Hvala za vse ribe
 tagline: Zahvaljujemo se vam za vse ribe
-description: Podkast o knjigi, ki jo poznajo le redki prebivalci tega nepomembnega modro-zelenega planeta. Bolj natančno o petih knjigah, ki govorijo o prej omenjeni knjigi. Avtorji se že vnaprej opravičujemo za vse nevšečnosti, ki bi morda lahko nastale ob in po poslušanju tega podkasta. 
+description: Podkast o knjigi Štoparski vodnik po Galaksiji, ki so jo, preden je Douglas Adams o njej napisali radijsko igro, knjigo (oz. 5 knjig), poznali le redki prebivalci tega nepomembnega modro-zelenega planeta.
 author :
   name : Davorin Pavlica
   email : davorin.pavlica@zvpl.com
@@ -8,5 +8,5 @@ author :
   twitter : davorinpavlica
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-facebook_username: felinafilm
-# production_url : http://www.felinafilms.si
+facebook_username: opravicujemose
+google_analytics: UA-686717-20
