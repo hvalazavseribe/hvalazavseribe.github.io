@@ -7,49 +7,45 @@ title: Spletna stran podkasta Opravičujemo se za vse nevšečnosti o knjigi Št
 
 Pozdravljen/a!
 
-Hvala, ker nas poslušaš in hvala, ker si prideskal/a na našo podporno spletno stran. Podkastu [Opravičujemo se za vse nevšečnosti](https://anchor.fm/opravicujemose) lahko pomagaš na **štiri načine**.
+Hvala, ker nas poslušaš in hvala, ker si prideskal/a na našo podporno spletno stran. 
 
-## 💸 Podpri nas!
+### Kako lahko pomagam?
 
-[![Podpri nas na Patreoun]({{ "/assets/imgs/patreon@2x.png" | absolute_url }} "Patreon"){: .support}](https://www.patreon.com/opravicujemose)
-[![Podpri nas na PayPalu]({{ "/assets/imgs/paypal1@2x.png" | absolute_url }} "Paypal"){: .support}](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NQ7EA2VV6LNWA&source=url)
-[![Podpri nas na PayPalu]({{ "/assets/imgs/paypal2@2x.png" | absolute_url }} "Paypal"){: .support}](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BY6KSC9SGDGQA&source=url)
+Podkastu [Opravičujemo se za vse nevšečnosti](https://anchor.fm/opravicujemose) lahko pomagaš na **štiri načine**.
 
-Če ti denarnica omogoča, bomo podpore veseli. Trenutno zbiramo za **prvi skupinski obisk tistega travnika v Innsbrucku**. Hvala za vse ribe! 🐬
+Prvi trije načini ne bodo prav težavni in bodo zate le hitro in majhno opravilo, nam pa bodo pomagali bolj, kot bodo težavni zate. Prosimo te da nas *oceniš*, se *povežeš* z nami in da o našem podkastu poveš še svojim prijateljem. Kako?
 
-Če pa ne, so spodaj tri stvari, ki te stanejo le 4,2 minute, nam pa bodo pomenile zelo veliko.
+## 🤩 Tako da nas oceniš v svojem priljubljenem podkast odjemalcu!
 
-## 🤩 Oceni nas!
-
-V svojem priljubljenem podkast odjemalcu!
-
-Smo na sledečih platformah:
-- [Apple Podcasts](https://podcasts.apple.com/si/podcast/opravi%C4%8Dujemo-se-za-vse-nev%C5%A1e%C4%8Dnosti/id1514750013),
-- [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8yMmI1YTUwMC9wb2RjYXN0L3Jzcw), 
-- [Overcast](https://overcast.fm/p1800312-cfXucP), 
-- [Pocket Casts](https://pca.st/zqlh1e4s),
-- pa tudi na [Anchor](https://anchor.fm/opravicujemose), [Breaker](https://www.breaker.audio/opravicujemo-se-za-vse-nevsecnosti), [Castbox](https://castbox.fm/channel/id2911541), [Listen Notes](https://www.listennotes.com/podcasts/opravi%C4%8Dujemo-se-za-vse-nev%C5%A1e%C4%8Dnosti-zvo%C4%8Dna-eO4sjykRKMo/),  [PlayerFM](https://player.fm/series/opravicujemo-se-za-vse-nevsecnosti), [RadioPublic](https://radiopublic.com/opraviujemo-se-za-vse-nevenosti-GEPV71) in [Spotify](https://open.spotify.com/show/6bYBLlFmu4lXZMuyzk9LOK?si=AZb30K9XQlO6QhsroUELFw).
+Smo na sledečih platformah: [Apple Podcasts](https://podcasts.apple.com/si/podcast/opravi%C4%8Dujemo-se-za-vse-nev%C5%A1e%C4%8Dnosti/id1514750013), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8yMmI1YTUwMC9wb2RjYXN0L3Jzcw), [Overcast](https://overcast.fm/p1800312-cfXucP) pa tudi na [Anchor](https://anchor.fm/opravicujemose), [Breaker](https://www.breaker.audio/opravicujemo-se-za-vse-nevsecnosti), [Castbox](https://castbox.fm/channel/id2911541), [Listen Notes](https://www.listennotes.com/podcasts/opravi%C4%8Dujemo-se-za-vse-nev%C5%A1e%C4%8Dnosti-zvo%C4%8Dna-eO4sjykRKMo/), [Pocket Casts](https://pca.st/zqlh1e4s), [PlayerFM](https://player.fm/series/opravicujemo-se-za-vse-nevsecnosti), [RadioPublic](https://radiopublic.com/opraviujemo-se-za-vse-nevenosti-GEPV71) in [Spotify](https://open.spotify.com/show/6bYBLlFmu4lXZMuyzk9LOK?si=AZb30K9XQlO6QhsroUELFw).
 
 Lahko nam pošlješ tudi e-pošto, bomo še bolj veseli! Ali pa vsaj toliko. Najbolje na e-poštni naslov **hvalazavseribe afna zvpl pika com**. Res hvala. 🙏
 
-## 🔗 Deli naš podkast.
+## 🔗 Tako da deliš naš podkast med prijatelji in nam slediš tudi sam/a!
 
-Med prijatelji in nam slediš tudi sam/a! Poveš jim, da smo na:
+Poveš jim, da smo na:
 - [Twitterju](https://twitter.com/opravicujemose),
 - [Instagramu](https://instagram.com/opravicujemose),
 - [Facebooku](https://www.facebook.com/opravicujemose),
 
 ... ali pa nas na teh družabnih omrežjih tudi sam/a slediš. Lahko obiščeš tudi spletno stran podkasta [opravicujemo.se](http://opravicujemo.se)! Hvala! 🙏
 
-## 🎙 Posnami citat
-
-Vsako epizodi si lahko tudi ti!
-
-Kako?
+## 🎙 Tako da posnameš citat iz Štoparca, mi ga pa objavimo v epizodi!
 
 Preprosto. Posnameš se (kar s telefonom bo v redu) in nam posnetek pošlješ na e-naslov **opravicujemose afna zvpl pika com**.
 
-Lahko obiščeš [našo Anchor stran](https://anchor.fm/opravicujemose), kjer nam lahko pošlješ svoj posnetek (le registrirat se moraš na Anchor, da lahko pošlješ posnetek). Najlepša hvala. 🙏
+Lahko obiščeš [našo Anchor stran](), kjer nam lahko pošlješ svoj posnetek (le registrirat se moraš na Anchor, da lahko pošlješ posnetek). Najlepša hvala. 🙏
+
+## 💸 Tako da nas podpreš:
+
+Podpreš nas lahko na več načinov:
+- [na Patreonu (mesečna donacija)](https://www.patreon.com/opravicujemose)
+	- (1, 3, 7, 14, 21 ali 42 € / mesečno)
+- [na Paypalu (mesečna donacija)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NQ7EA2VV6LNWA&source=url)
+	- (3, 7 ali 14 € (ali znesek po izbiri) / mesečno)
+- [na Paypalu (enkratna donacija)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BY6KSC9SGDGQA&source=url)
+	- enkratni znesek v višini po izbiri 
+- nam plačaš pivo ali kavo, če nas vidiš kjerkoli že smo. Radi večerjamo v _Restavraciji ob koncu vesolja_! Ali spijemo kakšnen pangalaktični grlorez ali dva.
 
 Hvala za vse ribe! 🐟
 
