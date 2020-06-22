@@ -36,7 +36,6 @@ ul, ol {
 
 img {
 	max-width: 100%;
-	display: block;
 	margin: .75em auto;
 }
 
@@ -46,4 +45,10 @@ small, small a, small a:hover, small a:focus {
 	border-bottom: none;
 	box-shadow: none;
 	outline: none;
+}
+
+img.support {
+	padding-right: 1em;
+	width: 244px;
+	height: 164px;
 }
