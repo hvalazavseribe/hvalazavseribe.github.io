@@ -4,4 +4,5 @@
 	{% if page.meta %}<meta name="description" content="{{ page.meta }}" />{% else %}<meta name="description" content="{{ site.description }}" />{% endif %}
 	<meta property="og:url" content="{{ site.url }}">
 	<meta property="og:title" content="{{ page.title }}">
+	<meta itemprop="keywords" content="{{ page.tags | join: ',' }}" />
 	{% if page.meta %}<meta property="og:description" content="{{ page.meta }}" />{% else %}<meta property="og:description" content="{{ site.description }}" />{% endif %}

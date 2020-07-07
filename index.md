@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Podporna spletna stran podkasta Opravičujemo se za vse nevšečnosti o knjigi Štoparski vodnik po Galaksiji, ki jo je napisal Douglas Adams.
+tags: Hvala za vse ribe, Opravičujemo se za vse nevšečnosti, Douglas Adams, Štoparski vodnik po Galaksiji, Zaphod Beeblebrox, Arthur Dent, Ford Prefect, hvalazavseribe.si
 ---
 
 # Hvala za vse ribe 🐬
