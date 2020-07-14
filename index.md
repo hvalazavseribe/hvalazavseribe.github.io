@@ -29,7 +29,7 @@ Smo na sledečih platformah:
 - [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8yMmI1YTUwMC9wb2RjYXN0L3Jzcw), 
 - [Overcast](https://overcast.fm/p1800312-cfXucP), 
 - [Pocket Casts](https://pca.st/zqlh1e4s),
-- pa tudi na [Anchor](https://anchor.fm/opravicujemose), [Breaker](https://www.breaker.audio/opravicujemo-se-za-vse-nevsecnosti), [Castbox](https://castbox.fm/channel/id2911541), [Listen Notes](https://www.listennotes.com/podcasts/opravi%C4%8Dujemo-se-za-vse-nev%C5%A1e%C4%8Dnosti-zvo%C4%8Dna-eO4sjykRKMo/),  [PlayerFM](https://player.fm/series/opravicujemo-se-za-vse-nevsecnosti), [RadioPublic](https://radiopublic.com/opraviujemo-se-za-vse-nevenosti-GEPV71), [Spotify](https://open.spotify.com/show/6bYBLlFmu4lXZMuyzk9LOK?si=AZb30K9XQlO6QhsroUELFw) in [Stitcher](https://www.stitcher.com/podcast/nespretno-delo/opravicujemo-se-za-vse-nevsecnosti).
+- pa tudi na [Anchor](https://anchor.fm/opravicujemose), [Breaker](https://www.breaker.audio/opravicujemo-se-za-vse-nevsecnosti), [Castbox](https://castbox.fm/channel/id2911541), [Deezer](https://www.deezer.com/en/show/1498102) [Listen Notes](https://www.listennotes.com/podcasts/opravi%C4%8Dujemo-se-za-vse-nev%C5%A1e%C4%8Dnosti-zvo%C4%8Dna-eO4sjykRKMo/),  [PlayerFM](https://player.fm/series/opravicujemo-se-za-vse-nevsecnosti), [RadioPublic](https://radiopublic.com/opraviujemo-se-za-vse-nevenosti-GEPV71), [Spotify](https://open.spotify.com/show/6bYBLlFmu4lXZMuyzk9LOK?si=AZb30K9XQlO6QhsroUELFw) in [Stitcher](https://www.stitcher.com/podcast/nespretno-delo/opravicujemo-se-za-vse-nevsecnosti).
 
 ## 🎙 Posnami citat
 
