@@ -37,7 +37,11 @@ V epizodi si lahko tudi ti!
 
 Kako?
 
-Preprosto. Posnameš se (kar s telefonom bo v redu) in nam posnetek pošlješ na e-naslov **hvalazavseribe afna zvpl pika com**.
+Pokliči na našo telefonsko tajnico, se predstavi in preberi citat iz prihajajočega poglavja.
+
+Telefonska številka je ☎️ <a href="tel:059968685" target="_blank" rel="noopener noreferrer">05 99 68 68 5</a>!
+
+Če nisi za te starinske tehnologije, kot so telefonske tajnice, lahko se posnameš (📱 telefon bo v redu) in nam posnetek pošlješ na 📭 e-naslov **hvalazavseribe afna zvpl pika com**.
 
 Lahko obiščeš [našo Anchor stran](https://anchor.fm/opravicujemose), kjer nam lahko pošlješ svoj posnetek (le registrirat se moraš na Anchor, da lahko pošlješ posnetek). Najlepša hvala (za vse ribe)! 🐟
 
@@ -70,7 +74,7 @@ Samo še nogač (footer) sledi.
 
 To je to. 
 
-Šc-šc.
+Zdravooo!
 
 Še malo pa bo zares nogač na vrsti.
 
