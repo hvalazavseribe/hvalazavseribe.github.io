@@ -27,6 +27,39 @@
 
 <p>Hvala, ker nas poslušaš in hvala, ker si prideskal/a na našo podporno spletno stran. Podkastu <a href="http://opravicujemo.se">Opravičujemo se za vse nevšečnosti</a> lahko pomagaš na <strong>štiri načine</strong>.</p>
 
+<p>V Innsbruck gremo čez <span id="demo"></span></p>
+
+<script>
+// Set the date we're counting down to
+var countDownDate = new Date("May 23, 2042 16:00:00").getTime();
+
+// Update the count down every 1 second
+var x = setInterval(function() {
+
+  // Get today's date and time
+  var now = new Date().getTime();
+    
+  // Find the distance between now and the count down date
+  var distance = countDownDate - now;
+    
+  // Time calculations for days, hours, minutes and seconds
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+    
+  // Output the result in an element with id="demo"
+  document.getElementById("demo").innerHTML = days + " dni, " + hours + " ur, "
+  + minutes + " minut in " + seconds + " sekund!";
+    
+  // If the count down is over, write some text 
+  if (distance < 0) {
+    clearInterval(x);
+    document.getElementById("demo").innerHTML = "EXPIRED";
+  }
+}, 1000);
+</script>
+
 <h2 id="-podpri-nas">💸 Podpri nas!</h2>
 
 <p>Če ti denarnica omogoča, bomo podpore veseli. Trenutno zbiramo za <strong>prvi skupinski obisk tistega travnika v Innsbrucku</strong>. Hvala za vse ribe! 🐬</p>
@@ -107,7 +140,7 @@
 
 <footer class="footer">
 
-  <div>&copy; <time datetime="2020-07-26T21:58:01+02:00">2020</time> - <a href="https://hvalazavseribe.si/">hvalazavseribe.si</a></div>
+  <div>&copy; <time datetime="2020-10-05T11:18:34+02:00">2020</time> - <a href="https://hvalazavseribe.si/">hvalazavseribe.si</a></div>
   <small>Site design inspired by <a href="http://motherfuckingwebsite.com" target="_blank">motherfuckingwebsite.com</a></small>
 </footer>
 </body>

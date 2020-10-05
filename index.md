@@ -10,6 +10,8 @@ Pozdravljen/a!
 
 Hvala, ker nas poslušaš in hvala, ker si prideskal/a na našo podporno spletno stran. Podkastu [Opravičujemo se za vse nevšečnosti](http://opravicujemo.se) lahko pomagaš na **štiri načine**.
 
+V Innsbruck gremo čez {% include counter.html %}
+
 ## 💸 Podpri nas!
 
 Če ti denarnica omogoča, bomo podpore veseli. Trenutno zbiramo za **prvi skupinski obisk tistega travnika v Innsbrucku**. Hvala za vse ribe! 🐬
