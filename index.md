@@ -19,6 +19,8 @@ V Innsbruck gremo čez {% include counter.html %}
 [![Podpri nas na Patreoun]({{ "/assets/imgs/patreon@2x.png" | absolute_url }} "Patreon"){: .support}](https://www.patreon.com/opravicujemose)
 [![Podpri nas na PayPalu]({{ "/assets/imgs/paypal1@2x.png" | absolute_url }} "Paypal"){: .support}](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NQ7EA2VV6LNWA&source=url)
 [![Podpri nas na PayPalu]({{ "/assets/imgs/paypal2@2x.png" | absolute_url }} "Paypal"){: .support}](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BY6KSC9SGDGQA&source=url)
+[![Podpri nas na Ko-fi]({{ "/assets/imgs/kofi@2x.png" | absolute_url }} "Paypal"){: .support}](https://ko-fi.com/opravicujemose)
+
 
 Če pa ne, so spodaj tri stvari, ki te stanejo le 4,2 minute, nam pa bodo pomenile zelo veliko.
 
