@@ -6,7 +6,7 @@ permalink: /sportradar/
 
 ---
 
-# ⚽️ V Sportradarju imamo službe.
+# V Sportradarju imamo službe ⚽️
 
 Prideskal/a si na stran, ker te zanima, kakšne službe imamo na [Sportradarju](https://sportradar.wd3.myworkdayjobs.com/sportradar_careers).
 
