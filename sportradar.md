@@ -19,9 +19,11 @@ Prideskal/a si na stran, ker te zanima, kakšne službe imamo na [Sportradarju](
 
 ## 🧑‍💻 ... jih imamo
 
-Trenutno iščemo: developerje_ke vseh sort: frontend, angular, backend, java backend, PHP, iOS, data scientist, pricing analyst, senior java engineer, front-end engineer, technical writer, sys admin Linux/AWS, dev ops, delivery manager, data engineer, head architect, … in še in še. Ni da ni. 
+Trenutno iščemo: developerje_ke vseh sort: frontend, angular, backend, java backend, PHP, iOS, data scientist, pricing analyst, senior java engineer, front-end engineer, data engineer in pa še ostale sorte ljudi: sys admin Linux/AWS, dev opstechnical writer,  delivery manager, head architect, … in še in še. Ni da ni. Skoraj.
 
-Za ažuren seznam glej [že omenjeno spletno stran](https://sportradar.wd3.myworkdayjobs.com/sportradar_careers) - izberi Ljubljana v razdelku _Location Country_.
+Le za ljudi, ki so vozili motor Java nimamo nobene službe, oprost', Aljo! ;) 
+
+Za ažuren seznam glej [že omenjeno spletno stran](https://sportradar.wd3.myworkdayjobs.com/sportradar_careers) - izberi Slovenia v razdelku _Location Country_.
 
 ## 📬 Kako se prijavim?
 
