@@ -11,7 +11,7 @@ permalink: /sportradar/
 Prideskal/a si na stran, ker te zanima, kakšne službe imamo na [Sportradarju](https://sportradar.wd3.myworkdayjobs.com/sportradar_careers).
 
 
-### Če te zanima več o službah na Sportradarju, pošlji e-pošto na ➡ [naš e-naslov](mailto:d.pavlica@sportradar.com) ⬅ in povedali ti bomo, kako nadaljevati s prijavo, da bo le-ta čim bolj uspešna! 
+### Če te zanima več o službah na Sportradarju, pošlji e-pošto na 👉 [naš e-naslov](mailto:d.pavlica@sportradar.com) 👈 in povedali ti bomo, kako nadaljevati s prijavo, da bo le-ta čim bolj uspešna! 
 
 ## 👷‍♀️ Če iščeš službo ...
 
