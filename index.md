@@ -44,7 +44,7 @@ Kako?
 
 - Pokliči na našo telefonsko tajnico, se predstavi in preberi citat iz prihajajočega poglavja. Telefonska številka je ☎️ <a href="tel:059968685" target="_blank" rel="noopener noreferrer">05 99 68 68 5</a>!
 
-- Če nisi za te starinske tehnologije se lahko posnameš na telefon 📱 (ali računalnik 💻, ali tablico ... te dni so mikrofoni že tako dobri, da za citat ne rabiš mikrofona in res hudega mikrofona) in nam posnetek pošlješ na 📭 e-naslov **<a href="javascript:location='mailto:\u0068\u0076\u0061\u006c\u0061\u007a\u0061\u0076\u0073\u0065\u0072\u0069\u0062\u0065\u0040\u007a\u0076\u0070\u006c\u002e\u0063\u006f\u006d';void 0"><script type="text/javascript">document.write('\u0068\u0076\u0061\u006c\u0061\u007a\u0061\u0076\u0073\u0065\u0072\u0069\u0062\u0065\u0040\u007a\u0076\u0070\u006c\u002e\u0063\u006f\u006d')</script></a>**.
+- Če nisi za te starinske tehnologije se lahko posnameš na telefon 📱 (ali računalnik 💻, ali tablico ... te dni so mikrofoni že tako dobri, da za citat ne rabiš mikrofona in res hudega mikrofona) in nam posnetek pošlješ na 📭 e-naslov **<a href="javascript:location='mailto:\u0068\u0076\u0061\u006c\u0061\u007a\u0061\u0076\u0073\u0065\u0072\u0069\u0062\u0065\u0040\u007a\u0076\u0070\u006c\u002e\u0063\u006f\u006d';void 0">hvalazavseribe[afna]zvpl.com</a>**.
 
 - Lahko obiščeš [našo Anchor stran](https://anchor.fm/opravicujemose), kjer nam lahko pošlješ svoj posnetek (le registrirat se moraš na Anchor, da lahko pošlješ posnetek). 
 
@@ -52,7 +52,7 @@ Najlepša hvala za tvoj prispevek k našem malem podkastu (in za vse ribe)! 🐟
 
 Lahko nam pošlješ tudi e-pošto, nas pozdraviš, pohvališ, skritiziraš, ... vsakega pisma bomo veseli!
 
-Najbolje na e-poštni naslov <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#104;&#118;&#97;&#108;&#97;&#122;&#97;&#118;&#115;&#101;&#114;&#105;&#98;&#101;&#64;&#122;&#118;&#112;&#108;&#46;&#99;&#111;&#109;">&#104;&#118;&#97;&#108;&#97;&#122;&#97;&#118;&#115;&#101;&#114;&#105;&#98;&#101;&#64;&#122;&#118;&#112;&#108;&#46;&#99;&#111;&#109;</a>. Res hvala. 🙏
+Najbolje na e-poštni naslov <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#104;&#118;&#97;&#108;&#97;&#122;&#97;&#118;&#115;&#101;&#114;&#105;&#98;&#101;&#64;&#122;&#118;&#112;&#108;&#46;&#99;&#111;&#109;">&#104;&#118;&#97;&#108;&#97;&#122;&#97;&#118;&#115;&#101;&#114;&#105;&#98;&#101;&#91;&#97;&#102;&#110;&#97;&#93;&#122;&#118;&#112;&#108;&#46;&#99;&#111;&#109;</a>. Res hvala. 🙏
 
 ## 🔗 Deli naš podkast.
 
