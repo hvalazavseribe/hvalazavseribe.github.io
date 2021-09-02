@@ -42,13 +42,11 @@ V epizodi si lahko tudi ti!
 
 Kako?
 
-Pokliči na našo telefonsko tajnico, se predstavi in preberi citat iz prihajajočega poglavja.
+- Pokliči na našo telefonsko tajnico, se predstavi in preberi citat iz prihajajočega poglavja. Telefonska številka je ☎️ <a href="tel:059968685" target="_blank" rel="noopener noreferrer">05 99 68 68 5</a>!
 
-Telefonska številka je ☎️ <a href="tel:059968685" target="_blank" rel="noopener noreferrer">05 99 68 68 5</a>!
+- Če nisi za te starinske tehnologije, kot so telefonske tajnice, lahko se posnameš (📱 telefon bo v redu, za citat ne rabiš mikrofona) in nam posnetek pošlješ na 📭 e-naslov **hvalazavseribe afna zvpl pika com**.
 
-Če nisi za te starinske tehnologije, kot so telefonske tajnice, lahko se posnameš (📱 telefon bo v redu) in nam posnetek pošlješ na 📭 e-naslov **hvalazavseribe afna zvpl pika com**.
-
-Lahko obiščeš [našo Anchor stran](https://anchor.fm/opravicujemose), kjer nam lahko pošlješ svoj posnetek (le registrirat se moraš na Anchor, da lahko pošlješ posnetek). Najlepša hvala (za vse ribe)! 🐟
+- Lahko obiščeš [našo Anchor stran](https://anchor.fm/opravicujemose), kjer nam lahko pošlješ svoj posnetek (le registrirat se moraš na Anchor, da lahko pošlješ posnetek). Najlepša hvala (za vse ribe)! 🐟
 
 Lahko nam pošlješ tudi e-pošto, nas pozdraviš, pohvališ, skritiziraš, ... vsakega pisma bomo veseli!
 
