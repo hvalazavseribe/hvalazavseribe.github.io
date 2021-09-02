@@ -52,16 +52,17 @@ Najlepša hvala za tvoj prispevek k našem malem podkastu (in za vse ribe)! 🐟
 
 Lahko nam pošlješ tudi e-pošto, nas pozdraviš, pohvališ, skritiziraš, ... vsakega pisma bomo veseli!
 
-Najbolje na e-poštni naslov **<a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#104;&#118;&#97;&#108;&#97;&#122;&#97;&#118;&#115;&#101;&#114;&#105;&#98;&#101;&#64;&#122;&#118;&#112;&#108;&#46;&#99;&#111;&#109;">&#104;&#118;&#97;&#108;&#97;&#122;&#97;&#118;&#115;&#101;&#114;&#105;&#98;&#101;&#64;&#122;&#118;&#112;&#108;&#46;&#99;&#111;&#109;</a>**. Res hvala. 🙏
+Najbolje na e-poštni naslov <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#104;&#118;&#97;&#108;&#97;&#122;&#97;&#118;&#115;&#101;&#114;&#105;&#98;&#101;&#64;&#122;&#118;&#112;&#108;&#46;&#99;&#111;&#109;">&#104;&#118;&#97;&#108;&#97;&#122;&#97;&#118;&#115;&#101;&#114;&#105;&#98;&#101;&#64;&#122;&#118;&#112;&#108;&#46;&#99;&#111;&#109;</a>. Res hvala. 🙏
 
 ## 🔗 Deli naš podkast.
 
 Deli ga med prijatelji in nam sledi tudi sam/a! Poveš jim, da smo na:
 - [Twitterju](https://twitter.com/opravicujemose),
 - [Instagramu](https://instagram.com/opravicujemose),
-- [Facebooku](https://www.facebook.com/opravicujemose),
+- [Facebooku](https://www.facebook.com/opravicujemose) in na
+- [TikToku](https://www.tiktok.com/@opravicujemose)!
 
-... ali pa nas na teh družabnih omrežjih tudi sam/a slediš. Lahko obiščeš tudi spletno stran podkasta [opravicujemo.se](http://opravicujemo.se)! Hvala! 🙏
+... ali pa nas na teh družabnih omrežjih tudi sam/a slediš. Lahko obiščeš tudi spletno stran podkasta [opravicujemo.se](http://opravicujemo.se)! Tam imamo vse epizode in njih zapiske. Dobrodošli! 😉
 
 #### 📚 Bi rad/a bral/a knjige Štoparski vodnik po Galaksiji?
 
@@ -71,7 +72,9 @@ V odličnem slovenskem prevodu Alojza Kodreta:
 
 #### 🎬 Tu ni nič več.
 
-Konec. No, ni. Vsak ponedeljek smo v podkast odjemalcu po tvoji izbiri ali na strani [opravicujemo.se](http://opravicujemo.se)!
+Konec. 
+
+No, ni. Vsak ponedeljek smo v podkast odjemalcu po tvoji izbiri ali na strani [opravicujemo.se](http://opravicujemo.se)!
 
 Zdaj pa je konec strani.
 
