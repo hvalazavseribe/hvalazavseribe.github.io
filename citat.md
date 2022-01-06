@@ -12,7 +12,7 @@ Zdravo! Hvala, ker razmišljaš o tem, da bi prebral-a citat za naš mali podkas
 
 Enostavno je. Posnameš se in pošlješ.
 
-Predstavi se, če želiš, povej kaj o sebi, (kje se te dobi na internetu, ...), in preberi citat.
+Predstavi se, če želiš, povej kaj o sebi, (kje se te dobi na internetu, ...) in preberi citat.
 
 Citat prosim pošlji na brezplačni telefonski odzivnik ☎️ <a href="tel:059968685" target="_blank" rel="noopener noreferrer">05 99 68 68 5</a> ali na naš <a href="https://hvalazavseribe.si/odzivnik/">digitalni telefonski odzivnik</a>! Hvala! 📞🙏! Več informacij, kako posneti in poslati citat pa na dnu strani.
 
