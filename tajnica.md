@@ -5,6 +5,6 @@ redirect_from:
 - /tajnik/
 - /nivram/
 - /razsvetlinas/
-- /citat/
+- /posnami-citat/
 redirect_to: https://telbee.io/channel/feqfokujnmeeysuwksennq/
 ---
