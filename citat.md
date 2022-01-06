@@ -29,7 +29,7 @@ Predstavi se in preberi citat. Ni težko. Zmoreš to. 🎙
   <p>»Je že dobro,« je rekla z glasom, ki bi pomiril še Veliki pok. »Očitno je prišlo do manjše bitke. Ladja in Ključ sta se razblinila v časovno-prostorskem kontinuumu. Kaže, da sta za vedno izgubljena.«</p>
 </blockquote>
 
-## Citat za epizodo 086 (s03e15)
+## Citat za epizodo 086 (s03e16)
 
 #### Rok za pošiljanje: sobota, 15. januar 2022 do 22:15 💀
 
