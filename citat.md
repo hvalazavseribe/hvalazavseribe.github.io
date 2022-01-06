@@ -12,13 +12,15 @@ Zdravo! Hvala, ker razmišljaš o tem, da bi prebral-a citat za naš mali podkas
 
 Enostavno je. Posnameš se in pošlješ.
 
-Najprej se predstaviš, poveš kaj o sebi, če želiš (kje se te dobi na internetu), ... in prebereš citat.
+Predstavi se, če želiš, povej kaj o sebi, (kje se te dobi na internetu, ...), in preberi citat.
 
 Citat prosim pošlji na brezplačni telefonski odzivnik ☎️ <a href="tel:059968685" target="_blank" rel="noopener noreferrer">05 99 68 68 5</a> ali na naš <a href="https://hvalazavseribe.si/odzivnik/">digitalni telefonski odzivnik</a>! Hvala! 📞🙏! Več informacij, kako posneti in poslati citat pa na dnu strani.
 
 ## Citat za epizodo 085 (s03e15) 
 
-#### 💀 Rok za pošiljanje: sobota, 8. januar 2022 do 22:08 
+#### Rok za pošiljanje: sobota, 8. januar 2022 do 22:08 💀
+
+Predstavi se in preberi citat. Ni težko. Zmoreš to. 🎙 
 
 <blockquote>
   <p>»Ravno ko so zaklenili ovojnico Po-časa,« je rekla in premolknila, da je mu je vtrla še malo kvalaktinske esence, »se je pokazalo, da je bila ena od pogrešanih, domnevno uničenih krikkiških ladij, samo pogrešana. Na lepem se je pojavila in se poskušala dokopati do Ključa.</p>
@@ -29,7 +31,9 @@ Citat prosim pošlji na brezplačni telefonski odzivnik ☎️ <a href="tel:0599
 
 ## Citat za epizodo 086 (s03e15)
 
-### ROK za pošiljanje: sobota, 15. januar 2022 do 22:08
+#### Rok za pošiljanje: sobota, 15. januar 2022 do 22:15 💀
+
+Vdih, izdih, ... potem pa kar pogumno. Predstavi se in preberi citat. Ti to zmoreš! 💪
 
 <blockquote>
   <p>Spoznal je, da je naredil napako, kajti omemba je Forda Prefecta očitno nenavadno močno in nezdravo pritegnila. Bolj ko je Slartibartfast razkrival temno in tragično zgodbo Krikkita in njegovih prebivalcev, bolj se je Fordu Prefectu mudilo pit in plesat z dekleti.</p>
@@ -50,3 +54,5 @@ Posnameš in pošlješ ga na enega od sledečih načinov:
 Najlepša hvala za tvoj prispevek k našem malem podkastu (in za vse ribe)! 🐟
 
 P.S.: Vse epizode podkasta najdeš na [opravicujemo.se](https://opravicujemo.se/)!
+
+P.P.S.: Res ne vemo, zakaj imamo dve spletni strani za podkast, ampak v nekem trenutku se nam je zdela to zelo dobra ideja. Vsekakor je ideja boljša od tiste, 
