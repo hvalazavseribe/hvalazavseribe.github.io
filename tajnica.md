@@ -6,5 +6,6 @@ redirect_from:
 - /nivram/
 - /posnamicitat/
 - /razsvetlinas/
+- /odzivnik/
 redirect_to: https://telbee.io/channel/feqfokujnmeeysuwksennq/
 ---
