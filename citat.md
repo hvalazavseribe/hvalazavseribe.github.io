@@ -76,7 +76,9 @@ Najlepša hvala za tvoj prispevek k našem malem podkastu (in za vse ribe)! 🐟
 P.S.: Vse epizode podkasta najdeš na [opravicujemo.se](https://opravicujemo.se/)!
 
 > »Ravno ko so zaklenili ovojnico Po-časa,« je rekla in premolknila, da je mu je vtrla še malo kvalaktinske esence, »se je pokazalo, da je bila ena od pogrešanih, domnevno uničenih krikkiških ladij, samo pogrešana. Na lepem se je pojavila in se poskušala dokopati do Ključa.
+> 
 > Zipo je planil pokonci.
+> 
 > »Kaj?« je vzkliknil.
+> 
 > »Je že dobro,« je rekla z glasom, ki bi pomiril še Veliki pok. »Očitno je prišlo do manjše bitke. Ladja in Ključ sta se razblinila v časovno-prostorskem kontinuumu. Kaže, da sta za vedno izgubljena.«
-
