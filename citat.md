@@ -12,7 +12,7 @@ Zdravo! Hvala, ker razmišljaš o tem, da bi prebral-a citat za naš mali podkas
 
 Enostavno je. Posnameš se in pošlješ citat.
 
-Predstavi se, če želiš, povej kaj o sebi, (kje se te dobi na internetu, ...) in preberi citat. 📖
+Predstavi se, če želiš, povej kaj o sebi, (kje si na internetu, ...) in preberi citat. 📖
 
 Citat prosim pošlji na brezplačni telefonski odzivnik ☎️ <a href="tel:059968685" target="_blank" rel="noopener noreferrer">05 99 68 68 5</a> ali na naš <a href="https://hvalazavseribe.si/odzivnik/">digitalni telefonski odzivnik</a>! Hvala! 📞🙏! Več informacij, kako posneti in poslati citat pa na dnu strani.
 
@@ -62,9 +62,9 @@ Nismo ga še izbrali, zato si ga lahko izbereš sam_a. Poglavje govori o časovn
 
 Citata še nismo izbrali, zato imaš možnost, da si ga izbereš sam_a. 18. poglavje tretje knjige _O življenju, vesolju in sploh vsem_ govori o neki drugi katedrali. Katedrali sovraštva, kjer je svom dom našel **Agradžag**. 🎙 
 
-### Kako posneti in poslati citat
+## Kako posneti in poslati citat
 
-Posnameš in pošlješ ga na enega od sledečih načinov:
+Citat posnameš in pošlješ na enega od sledečih načinov:
 
 - Pokliči na naš telefonski odzivnik, se predstavi in preberi citat iz prihajajočega poglavja (najdeš jih zgoraj). Telefonska številka je ☎️ <a href="tel:059968685" target="_blank" rel="noopener noreferrer">05 99 68 68 5</a>!
 - Poklikaj na naš digitalni odzivnik kar s telefona 📞 ali računalnika 🖥. Odzivnik najdeš na <a href="https://hvalazavseribe.si/odzivnik/" target="_blank">hvalazavseribe.si/odzivnik</a>
@@ -74,5 +74,3 @@ Posnameš in pošlješ ga na enega od sledečih načinov:
 Najlepša hvala za tvoj prispevek k našem malem podkastu (in za vse ribe)! 🐟
 
 P.S.: Vse epizode podkasta najdeš na [opravicujemo.se](https://opravicujemo.se/)!
-
-P.P.S.: Res ne vemo, zakaj imamo dve spletni strani za podkast, ampak v nekem trenutku se nam je zdela to zelo dobra ideja. Vsekakor je ideja boljša od tiste, 
