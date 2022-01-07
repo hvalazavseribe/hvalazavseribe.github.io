@@ -52,7 +52,7 @@ Seveda lahko prebereš tudi kakšen drug citat iz poglavja, ki ga obdelujemo, vs
 
 #### Rok za pošiljanje: sobota, 22. januar 2022 do 22:22
 
-Nismo ga še izbrali, zato si ga lahko izbereš sam_a. Poglavje govori o časovnih potovanjih in čalezmski katedrali. Ni težko. Predstavi se in preberi citat! Zmoreš to. 🎙 
+Nismo ga še izbrali, zato si ga lahko izbereš sam_a. Poglavje govori o časovnih potovanjih in čalezmski katedrali. 🎙 
 
 ## Citat za epizodo 088 (s03e18)
 
