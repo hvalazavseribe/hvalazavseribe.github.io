@@ -10,9 +10,9 @@ permalink: /citat/
 
 Zdravo! Hvala, ker razmišljaš o tem, da bi prebral-a citat za naš mali podkast.
 
-Enostavno je. Posnameš se in pošlješ.
+Enostavno je. Posnameš se in pošlješ citat.
 
-Predstavi se, če želiš, povej kaj o sebi, (kje se te dobi na internetu, ...) in preberi citat.
+Predstavi se, če želiš, povej kaj o sebi, (kje se te dobi na internetu, ...) in preberi citat. 📖
 
 Citat prosim pošlji na brezplačni telefonski odzivnik ☎️ <a href="tel:059968685" target="_blank" rel="noopener noreferrer">05 99 68 68 5</a> ali na naš <a href="https://hvalazavseribe.si/odzivnik/">digitalni telefonski odzivnik</a>! Hvala! 📞🙏! Več informacij, kako posneti in poslati citat pa na dnu strani.
 
@@ -20,7 +20,7 @@ Citat prosim pošlji na brezplačni telefonski odzivnik ☎️ <a href="tel:0599
 
 ### 15. poglavje 3. knjige
 
-#### Rok za pošiljanje: sobota, 8. januar 2022 do 22:08 💀
+#### Rok za pošiljanje: sobota, 8. januar 2022 do 22:08
 
 Predstavi se in preberi citat. Ni težko. Zmoreš to. 🎙 
 
@@ -35,13 +35,13 @@ Predstavi se in preberi citat. Ni težko. Zmoreš to. 🎙
 
 ### 16. poglavje 3. knjige
 
-#### Rok za pošiljanje: sobota, 15. januar 2022 do 22:15 💀
+#### Rok za pošiljanje: sobota, 15. januar 2022 do 22:15
 
 Vdih, izdih, ... potem pa kar pogumno. Predstavi se in preberi citat. Ti to zmoreš! 💪
 
 <blockquote>
-  <p>Spoznal je, da je naredil napako, kajti omemba je Forda Prefecta očitno nenavadno močno in nezdravo pritegnila. Bolj ko je Slartibartfast razkrival temno in tragično zgodbo Krikkita in njegovih prebivalcev, bolj se je Fordu Prefectu mudilo pit in plesat z dekleti.</p>
-  <p>Ugotovil je, da ne bi bil smel omeniti zabave, dokler ne bi bilo res absolutno nujno. Ampak zdaj se ni dalo pomagati, beseda je padla in Ford Prefect se je obesil nanjo kot arkturska megapijavka na svoj plen, preden mu odgrizne glavo in jo pobriše z njegovo vesoljsko ladjo.</p>
+  Spoznal je, da je naredil napako, kajti omemba je Forda Prefecta očitno nenavadno močno in nezdravo pritegnila. Bolj ko je Slartibartfast razkrival temno in tragično zgodbo Krikkita in njegovih prebivalcev, bolj se je Fordu Prefectu mudilo pit in plesat z dekleti.
+  Ugotovil je, da ne bi bil smel omeniti zabave, dokler ne bi bilo res absolutno nujno. Ampak zdaj se ni dalo pomagati, beseda je padla in Ford Prefect se je obesil nanjo kot arkturska megapijavka na svoj plen, preden mu odgrizne glavo in jo pobriše z njegovo vesoljsko ladjo.
 </blockquote>
 
 Seveda lahko prebereš tudi kakšen drug citat iz poglavja, ki ga obdelujemo, vsakega predloga in prebranega citata bomo zares veseli. Trenutno obdelujemo poglavja tretje knjige _O življenju, vesolju in sploh vsem_ ... 
@@ -50,7 +50,7 @@ Seveda lahko prebereš tudi kakšen drug citat iz poglavja, ki ga obdelujemo, vs
 
 ### 17. poglavje 3. knjige
 
-#### Rok za pošiljanje: sobota, 22. januar 2022 do 22:22 💀
+#### Rok za pošiljanje: sobota, 22. januar 2022 do 22:22
 
 Nismo ga še izbrali, zato si ga lahko izbereš sam_a. Poglavje govori o časovnih potovanjih in čalezmski katedrali. Ni težko. Predstavi se in preberi citat! Zmoreš to. 🎙 
 
@@ -58,7 +58,7 @@ Nismo ga še izbrali, zato si ga lahko izbereš sam_a. Poglavje govori o časovn
 
 ### 18. poglavje 3. knjige
 
-#### Rok za pošiljanje: sobota, 29. januar 2022 do 22:29 💀
+#### Rok za pošiljanje: sobota, 29. januar 2022 do 22:29
 
 Citata še nismo izbrali, zato imaš možnost, da si ga izbereš sam_a. 18. poglavje tretje knjige _O življenju, vesolju in sploh vsem_ govori o neki drugi katedrali. Katedrali sovraštva, kjer je svom dom našel **Agradžag**. 🎙 
 

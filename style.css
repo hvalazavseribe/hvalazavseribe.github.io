@@ -25,6 +25,10 @@ h3 {
 	font-size: 0.8em;
 }
 
+h4::before {
+	content: "⏰ ";
+}
+
 
 h1 {
 	font-size: 2em;
