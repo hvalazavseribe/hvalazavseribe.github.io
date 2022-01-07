@@ -52,7 +52,7 @@ Seveda lahko prebereš tudi kakšen drug citat iz poglavja, ki ga obdelujemo, vs
 
 #### Rok za pošiljanje: sobota, 22. januar 2022 do 22:22
 
-Nismo ga še izbrali, zato si ga lahko izbereš sam_a. Poglavje govori o časovnih potovanjih in čalezmski katedrali. 🎙 
+Citata še nismo izbrali, zato imaš možnost, da si ga izbereš sam_a. Poglavje govori o časovnih potovanjih in čalezmski katedrali. 🎙 
 
 ## Citat za epizodo 088 (s03e18)
 
@@ -60,7 +60,7 @@ Nismo ga še izbrali, zato si ga lahko izbereš sam_a. Poglavje govori o časovn
 
 #### Rok za pošiljanje: sobota, 29. januar 2022 do 22:29
 
-Citata še nismo izbrali, zato imaš možnost, da si ga izbereš sam_a. 18. poglavje tretje knjige _O življenju, vesolju in sploh vsem_ govori o neki drugi katedrali. Katedrali sovraštva, kjer je svom dom našel **Agradžag**. 🎙 
+Nismo ga še izbrali, zato si ga lahko izbereš sam_a. 18. poglavje tretje knjige _O življenju, vesolju in sploh vsem_ govori o neki drugi katedrali. Katedrali sovraštva, kjer je svom dom našel **Agradžag**. 🎙 
 
 ## Kako posneti in poslati citat
 
