@@ -1,18 +1,18 @@
 ---
 layout: default
 title: Posnami in 🎙 pošlji citat
-tags: quote, citat, posnami
+tags: quote, citat, odzivnik, Štoparski vodnik po Galaksiji,
 permalink: /citat/
 
 ---
 
 # Hvala za vse ribe (in za citat) 🎙
 
-Zdravo! Hvala, ker razmišljaš o tem, da bi prebral-a citat za naš mali podkast.
+Zdravo! Hvala, ker razmišljaš o tem, da bi prebral-a citat za naš mali podkast. Trenutno obdelujemo poglavja tretje knjige _O življenju, vesolju in sploh vsem_ ... 
 
 Enostavno je. Posnameš se in pošlješ citat.
 
-Predstavi se, če želiš, povej kaj o sebi, (kje si na internetu, ...) in preberi citat. 📖
+1️⃣ Predstavi se, če želiš, povej kaj o sebi, (kje si na internetu, ...) in 2️⃣ preberi citat. 📖
 
 Citat prosim pošlji na brezplačni telefonski odzivnik ☎️ <a href="tel:059968685" target="_blank" rel="noopener noreferrer">05 99 68 68 5</a> ali na naš <a href="https://hvalazavseribe.si/odzivnik/">digitalni telefonski odzivnik</a>! Hvala! 📞🙏! Več informacij, kako posneti in poslati citat pa na dnu strani.
 
@@ -24,12 +24,13 @@ Citat prosim pošlji na brezplačni telefonski odzivnik ☎️ <a href="tel:0599
 
 Predstavi se in preberi citat. Ni težko. Zmoreš to. 🎙 
 
-<blockquote>
-  <p>»Ravno ko so zaklenili ovojnico Po-časa,« je rekla in premolknila, da je mu je vtrla še malo kvalaktinske esence, »se je pokazalo, da je bila ena od pogrešanih, domnevno uničenih krikkiških ladij, samo pogrešana. Na lepem se je pojavila in se poskušala dokopati do Ključa.</p>
-  <p>Zipo je planil pokonci.</p>
-  <p>»Kaj?« je vzkliknil.</p>
-  <p>»Je že dobro,« je rekla z glasom, ki bi pomiril še Veliki pok. »Očitno je prišlo do manjše bitke. Ladja in Ključ sta se razblinila v časovno-prostorskem kontinuumu. Kaže, da sta za vedno izgubljena.«</p>
-</blockquote>
+> »Ravno ko so zaklenili ovojnico Po-časa,« je rekla in premolknila, da je mu je vtrla še malo kvalaktinske esence, »se je pokazalo, da je bila ena od pogrešanih, domnevno uničenih krikkiških ladij, samo pogrešana. Na lepem se je pojavila in se poskušala dokopati do Ključa.
+> 
+> Zipo je planil pokonci.
+> 
+> »Kaj?« je vzkliknil.
+> 
+> »Je že dobro,« je rekla z glasom, ki bi pomiril še Veliki pok. »Očitno je prišlo do manjše bitke. Ladja in Ključ sta se razblinila v časovno-prostorskem kontinuumu. Kaže, da sta za vedno izgubljena.«
 
 ## Citat za epizodo 086 (s03e16)
 
@@ -39,12 +40,11 @@ Predstavi se in preberi citat. Ni težko. Zmoreš to. 🎙
 
 Vdih, izdih, ... potem pa kar pogumno. Predstavi se in preberi citat. Ti to zmoreš! 💪
 
-<blockquote>
-  <p>Spoznal je, da je naredil napako, kajti omemba je Forda Prefecta očitno nenavadno močno in nezdravo pritegnila. Bolj ko je Slartibartfast razkrival temno in tragično zgodbo Krikkita in njegovih prebivalcev, bolj se je Fordu Prefectu mudilo pit in plesat z dekleti.</p>
-  <p>Ugotovil je, da ne bi bil smel omeniti zabave, dokler ne bi bilo res absolutno nujno. Ampak zdaj se ni dalo pomagati, beseda je padla in Ford Prefect se je obesil nanjo kot arkturska megapijavka na svoj plen, preden mu odgrizne glavo in jo pobriše z njegovo vesoljsko ladjo.</p>
-</blockquote>
+  >  Spoznal je, da je naredil napako, kajti omemba je Forda Prefecta očitno nenavadno močno in nezdravo pritegnila. Bolj ko je Slartibartfast razkrival temno in tragično zgodbo Krikkita in njegovih prebivalcev, bolj se je Fordu Prefectu mudilo pit in plesat z dekleti.
+  > 
+  > Ugotovil je, da ne bi bil smel omeniti zabave, dokler ne bi bilo res absolutno nujno. Ampak zdaj se ni dalo pomagati, beseda je padla in Ford Prefect se je obesil nanjo kot arkturska megapijavka na svoj plen, preden mu odgrizne glavo in jo pobriše z njegovo vesoljsko ladjo.
 
-Seveda lahko prebereš tudi kakšen drug citat iz poglavja, ki ga obdelujemo, vsakega predloga in prebranega citata bomo zares veseli. Trenutno obdelujemo poglavja tretje knjige _O življenju, vesolju in sploh vsem_ ... 
+Seveda lahko prebereš tudi kakšen drug citat iz poglavja, ki ga obdelujemo, vsakega predloga in prebranega citata bomo zares veseli. 
 
 ## Citat za epizodo 087 (s03e17)
 
@@ -52,7 +52,9 @@ Seveda lahko prebereš tudi kakšen drug citat iz poglavja, ki ga obdelujemo, vs
 
 #### Rok za pošiljanje: sobota, 22. januar 2022 do 22:22
 
-Citata še nismo izbrali, zato imaš možnost, da si ga izbereš sam_a. Poglavje govori o časovnih potovanjih in čalezmski katedrali. 🎙 
+Tokrat smo izbrali citat o kampanji za resnični čas in čalezmski katedrali. Kar pogumno! 👇
+
+> Sprožili so kampanjo za resnični čas, da se take stvari ne bi več dogajale. Njihovo stališče se je še utrdilo teden dni po začetku kampanje, ko se je razširila novica, da so zaradi gradnje nove ionske rafinerije podrli veličastno čalezmsko katedralo in ne samo to: v resnici se je gradnja rafinerije tako zavlekla in so morali zaradi pravočasnega zagona ionske proizvodnje prestaviti začetek del tako daleč v preteklost, da čalezmske katedrale sploh ni bilo mogoče zgraditi. Razglednice z njeno sliko so nenadoma postale neznansko dragocene. 
 
 ## Citat za epizodo 088 (s03e18)
 
@@ -74,11 +76,3 @@ Citat posnameš in pošlješ na enega od sledečih načinov:
 Najlepša hvala za tvoj prispevek k našem malem podkastu (in za vse ribe)! 🐟
 
 P.S.: Vse epizode podkasta najdeš na [opravicujemo.se](https://opravicujemo.se/)!
-
-> »Ravno ko so zaklenili ovojnico Po-časa,« je rekla in premolknila, da je mu je vtrla še malo kvalaktinske esence, »se je pokazalo, da je bila ena od pogrešanih, domnevno uničenih krikkiških ladij, samo pogrešana. Na lepem se je pojavila in se poskušala dokopati do Ključa.
-> 
-> Zipo je planil pokonci.
-> 
-> »Kaj?« je vzkliknil.
-> 
-> »Je že dobro,« je rekla z glasom, ki bi pomiril še Veliki pok. »Očitno je prišlo do manjše bitke. Ladja in Ključ sta se razblinila v časovno-prostorskem kontinuumu. Kaže, da sta za vedno izgubljena.«
