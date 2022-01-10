@@ -8,7 +8,7 @@ permalink: /citat/
 
 # Hvala za vse ribe (in za citat) 🎙
 
-Zdravo! Hvala, ker razmišljaš o tem, da bi prebral-a citat za naš mali podkast. To nam res veliko pomeni. 🙏 Trenutno obdelujemo poglavja tretje knjige _O življenju, vesolju in sploh vsem_ ... 
+Zdravo! Hvala, ker razmišljaš o tem, da bi prebral-a citat za naš mali podkast. To nam res veliko pomeni. 🙏 Trenutno obdelujemo poglavja tretje knjige _O življenju, vesolju in sploh vsem_ ... iz katere imamo nekaj citatov že pripravljenih.
 
 **Kako posnamem in pošljem citat**
 
@@ -26,7 +26,7 @@ Več informacij, kako posneti in poslati citat pa [na dnu strani](https://hvalaz
 
 #### Rok za pošiljanje: sobota, 15. januar 2022 do 22:15
 
-Vdih, izdih, ... potem pa kar pogumno. Predstavi se in preberi citat. Ti to zmoreš! 💪
+Vdih, izdih, ... potem pa kar pogumno. Predstavi se in preberi citat. 💪
 
   >  Spoznal je, da je naredil napako, kajti omemba je Forda Prefecta očitno nenavadno močno in nezdravo pritegnila. Bolj ko je Slartibartfast razkrival temno in tragično zgodbo Krikkita in njegovih prebivalcev, bolj se je Fordu Prefectu mudilo pit in plesat z dekleti.
   > 
@@ -51,6 +51,21 @@ Tokrat smo izbrali citat o kampanji za resnični čas in čalezmski katedrali. K
 #### Rok za pošiljanje: sobota, 29. januar 2022 do 22:29
 
 Nismo ga še izbrali, zato si ga lahko izbereš sam_a. 18. poglavje tretje knjige _O življenju, vesolju in sploh vsem_ govori o neki drugi katedrali. Katedrali sovraštva, kjer je svom dom našel **Agradžag**. 🎙 
+
+## Citat za epizodo 089 (s03e19)
+
+### 19. poglavje 3. knjige
+
+#### Rok za pošiljanje: sobota, 5. februrar 2022 do 22:05
+
+Poglavje govori o kriketu in ustanovnem uredniku vodnika z imenom Zagnani Frootmig. Govori tudi o kosilih. In pravilih brokijskega ultrakriketa. Citata še nismo izbrali, zato imaš možnost, da si ga izbereš sam_a. 🎙 
+
+### 20. poglavje 3. knjige
+
+#### Rok za pošiljanje: sobota, 12. februrar 2022 do 22:12
+
+ Citata še nismo izbrali, v poglavju pa Arturja lovi plaz in beži pred njim. Med bežanjem se spotakne in popolnoma zgreši tla. Namig je tako jasen, lahko pa seveda izberete tudi kakšen drug del poglavja, ne bomo nič hudi.  🎙 
+
 
 ## Kako posneti in poslati citat
 
