@@ -8,7 +8,7 @@ permalink: /citat/
 
 # Hvala za vse ribe (in za citat) 🎙
 
-Zdravo! Hvala, ker razmišljaš o tem, da bi prebral-a citat za naš mali podkast. To nam res veliko pomeni. 🙏 Trenutno obdelujemo poglavja tretje knjige _O življenju, vesolju in sploh vsem_ ... iz katere imamo nekaj citatov že pripravljenih.
+Zdravo! Hvala, ker razmišljaš o tem, da bi prebral_a citat [za naš mali podkast](https://opravicujemo.se/) o življenju, vesolju in sploh vsem. To nam res veliko pomeni. 🙏 Trenutno obdelujemo poglavja tretje knjige _O življenju, vesolju in sploh vsem_ ... iz katere imamo nekaj citatov že pripravljenih.
 
 **Kako posnamem in pošljem citat**
 
@@ -79,3 +79,4 @@ Citat posnameš in pošlješ na enega od sledečih načinov:
 Najlepša hvala za tvoj prispevek k našem malem podkastu (in za vse ribe)! 🐟
 
 P.S.: Vse epizode podkasta najdeš na [opravicujemo.se](https://opravicujemo.se/)!
+
