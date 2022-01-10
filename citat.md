@@ -8,13 +8,17 @@ permalink: /citat/
 
 # Hvala za vse ribe (in za citat) 🎙
 
-Zdravo! Hvala, ker razmišljaš o tem, da bi prebral-a citat za naš mali podkast. To nam res veliko pomeni. Hvala! 🙏 Trenutno obdelujemo poglavja tretje knjige _O življenju, vesolju in sploh vsem_ ... 
+Zdravo! Hvala, ker razmišljaš o tem, da bi prebral-a citat za naš mali podkast. To nam res veliko pomeni. 🙏 Trenutno obdelujemo poglavja tretje knjige _O življenju, vesolju in sploh vsem_ ... 
 
-Enostavno je. Posnameš se in pošlješ citat.
+**Kako posnamem in pošljem citat**
 
-1️⃣ Predstavi se, če želiš, povej kaj o sebi, (kje si na internetu, ...) in 2️⃣ preberi citat. 📖
+Citat posnameš na naš brezplačni telefonski odzivnik ☎️ <a href="tel:059968685" target="_blank" rel="noopener noreferrer">05 99 68 68 5</a> ali na naš <a href="https://hvalazavseribe.si/odzivnik/">digitalni telefonski odzivnik</a>! Hvala! 📞🙏! 
 
-Citat prosim pošlji na brezplačni telefonski odzivnik ☎️ <a href="tel:059968685" target="_blank" rel="noopener noreferrer">05 99 68 68 5</a> ali na naš <a href="https://hvalazavseribe.si/odzivnik/">digitalni telefonski odzivnik</a>! Hvala! 📞🙏! Več informacij, kako posneti in poslati citat pa na dnu strani.
+Kratka navodila:
+- 1️⃣ Predstavi se, če želiš, povej kaj o sebi, (kje si na internetu, ...) in 
+- 2️⃣ preberi citat. 📖
+
+Več informacij, kako posneti in poslati citat pa [na dnu strani](https://hvalazavseribe.si/citat/#kako-posneti-in-poslati-citat). Seznam aktualnih citatov pa spodaj. 👇
 
 ## Citat za epizodo 086 (s03e16)
 
