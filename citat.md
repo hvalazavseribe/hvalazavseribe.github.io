@@ -8,29 +8,13 @@ permalink: /citat/
 
 # Hvala za vse ribe (in za citat) 🎙
 
-Zdravo! Hvala, ker razmišljaš o tem, da bi prebral-a citat za naš mali podkast. Trenutno obdelujemo poglavja tretje knjige _O življenju, vesolju in sploh vsem_ ... 
+Zdravo! Hvala, ker razmišljaš o tem, da bi prebral-a citat za naš mali podkast. To nam res veliko pomeni. Hvala! 🙏 Trenutno obdelujemo poglavja tretje knjige _O življenju, vesolju in sploh vsem_ ... 
 
 Enostavno je. Posnameš se in pošlješ citat.
 
 1️⃣ Predstavi se, če želiš, povej kaj o sebi, (kje si na internetu, ...) in 2️⃣ preberi citat. 📖
 
 Citat prosim pošlji na brezplačni telefonski odzivnik ☎️ <a href="tel:059968685" target="_blank" rel="noopener noreferrer">05 99 68 68 5</a> ali na naš <a href="https://hvalazavseribe.si/odzivnik/">digitalni telefonski odzivnik</a>! Hvala! 📞🙏! Več informacij, kako posneti in poslati citat pa na dnu strani.
-
-## Citat za epizodo 085 (s03e15)
-
-### 15. poglavje 3. knjige
-
-#### Rok za pošiljanje: sobota, 8. januar 2022 do 22:08
-
-Predstavi se in preberi citat. Ni težko. Zmoreš to. 🎙 
-
-> »Ravno ko so zaklenili ovojnico Po-časa,« je rekla in premolknila, da je mu je vtrla še malo kvalaktinske esence, »se je pokazalo, da je bila ena od pogrešanih, domnevno uničenih krikkiških ladij, samo pogrešana. Na lepem se je pojavila in se poskušala dokopati do Ključa.
-> 
-> Zipo je planil pokonci.
-> 
-> »Kaj?« je vzkliknil.
-> 
-> »Je že dobro,« je rekla z glasom, ki bi pomiril še Veliki pok. »Očitno je prišlo do manjše bitke. Ladja in Ključ sta se razblinila v časovno-prostorskem kontinuumu. Kaže, da sta za vedno izgubljena.«
 
 ## Citat za epizodo 086 (s03e16)
 
