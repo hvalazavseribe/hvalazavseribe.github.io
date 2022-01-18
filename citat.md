@@ -20,8 +20,6 @@ Kratka navodila:
 
 Več informacij, kako posneti in poslati citat pa [na dnu strani](https://hvalazavseribe.si/citat/#kako-posneti-in-poslati-citat). Seznam aktualnih citatov pa spodaj. 👇
 
-## Citat za epizodo 086 (s03e16)
-
 ## Citat za epizodo 087 (s03e17)
 
 ### 17. poglavje 3. knjige
@@ -50,12 +48,14 @@ Nismo ga še izbrali, zato si ga lahko izbereš sam_a. 18. poglavje tretje knjig
 
 Poglavje govori o kriketu in ustanovnem uredniku vodnika z imenom Zagnani Frootmig. Govori tudi o kosilih. In pravilih brokijskega ultrakriketa. Citata še nismo izbrali, zato imaš možnost, da si ga izbereš sam_a. 🎙 
 
+
+## Citat za epizodo 090 (s03e20)
+
 ### 20. poglavje 3. knjige
 
 #### Rok za pošiljanje: sobota, 12. februrar 2022 do 22:12
 
- Citata še nismo izbrali, v poglavju pa Arturja lovi plaz in beži pred njim. Med bežanjem se spotakne in popolnoma zgreši tla. Namig je tako jasen, lahko pa seveda izberete tudi kakšen drug del poglavja, ne bomo nič hudi.  🎙 
-
+ Citata še nismo izbrali, v poglavju pa Arturja lovi plaz in beži pred njim. Med bežanjem se spotakne in popolnoma zgreši tla. Namig je tako jasen, lahko pa seveda izberete tudi kakšen drug del poglavja, ne bomo nič hudi. 🎙 
 
 ## Kako posneti in poslati citat
 
