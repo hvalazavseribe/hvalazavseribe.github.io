@@ -22,18 +22,6 @@ Več informacij, kako posneti in poslati citat pa [na dnu strani](https://hvalaz
 
 ## Citat za epizodo 086 (s03e16)
 
-### 16. poglavje 3. knjige
-
-#### Rok za pošiljanje: sobota, 15. januar 2022 do 22:15
-
-Vdih, izdih, ... potem pa kar pogumno. Predstavi se in preberi citat. 💪
-
-  >  Spoznal je, da je naredil napako, kajti omemba je Forda Prefecta očitno nenavadno močno in nezdravo pritegnila. Bolj ko je Slartibartfast razkrival temno in tragično zgodbo Krikkita in njegovih prebivalcev, bolj se je Fordu Prefectu mudilo pit in plesat z dekleti.
-  > 
-  > Ugotovil je, da ne bi bil smel omeniti zabave, dokler ne bi bilo res absolutno nujno. Ampak zdaj se ni dalo pomagati, beseda je padla in Ford Prefect se je obesil nanjo kot arkturska megapijavka na svoj plen, preden mu odgrizne glavo in jo pobriše z njegovo vesoljsko ladjo.
-
-Seveda lahko prebereš tudi kakšen drug citat iz poglavja, ki ga obdelujemo, vsakega predloga in prebranega citata bomo zares veseli. 
-
 ## Citat za epizodo 087 (s03e17)
 
 ### 17. poglavje 3. knjige
@@ -41,6 +29,8 @@ Seveda lahko prebereš tudi kakšen drug citat iz poglavja, ki ga obdelujemo, vs
 #### Rok za pošiljanje: sobota, 22. januar 2022 do 22:22
 
 Tokrat smo izbrali citat o kampanji za resnični čas in čalezmski katedrali. Kar pogumno! 👇
+
+**Z veseljem in radostjo v srcu, sporočamo, da je nekdo že prebral citat, ... a ga vseeno lahko še vi.** 
 
 > Sprožili so kampanjo za resnični čas, da se take stvari ne bi več dogajale. Njihovo stališče se je še utrdilo teden dni po začetku kampanje, ko se je razširila novica, da so zaradi gradnje nove ionske rafinerije podrli veličastno čalezmsko katedralo in ne samo to: v resnici se je gradnja rafinerije tako zavlekla in so morali zaradi pravočasnega zagona ionske proizvodnje prestaviti začetek del tako daleč v preteklost, da čalezmske katedrale sploh ni bilo mogoče zgraditi. Razglednice z njeno sliko so nenadoma postale neznansko dragocene. 
 
