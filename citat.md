@@ -26,8 +26,6 @@ Več informacij, kako posneti in poslati citat pa [na dnu strani](https://hvalaz
 
 #### Rok za pošiljanje: sobota, 22. januar 2022 do 22:22
 
-Tokrat smo izbrali citat o kampanji za resnični čas in čalezmski katedrali. Kar pogumno! 👇
-
 **Z veseljem in radostjo v srcu, sporočamo, da je nekdo že prebral citat, ... a ga vseeno lahko še vi.** 
 
 > Sprožili so kampanjo za resnični čas, da se take stvari ne bi več dogajale. Njihovo stališče se je še utrdilo teden dni po začetku kampanje, ko se je razširila novica, da so zaradi gradnje nove ionske rafinerije podrli veličastno čalezmsko katedralo in ne samo to: v resnici se je gradnja rafinerije tako zavlekla in so morali zaradi pravočasnega zagona ionske proizvodnje prestaviti začetek del tako daleč v preteklost, da čalezmske katedrale sploh ni bilo mogoče zgraditi. Razglednice z njeno sliko so nenadoma postale neznansko dragocene. 
