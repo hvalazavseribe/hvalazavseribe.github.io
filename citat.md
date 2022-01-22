@@ -28,7 +28,8 @@ Več informacij, kako posneti in poslati citat pa [na dnu strani](https://hvalaz
 
 **Z veseljem in radostjo v srcu, sporočamo, da je nekdo že prebral citat, ... a ga vseeno lahko še vi.** 
 
-> Sprožili so kampanjo za resnični čas, da se take stvari ne bi več dogajale. Njihovo stališče se je še utrdilo teden dni po začetku kampanje, ko se je razširila novica, da so zaradi gradnje nove ionske rafinerije podrli veličastno čalezmsko katedralo in ne samo to: v resnici se je gradnja rafinerije tako zavlekla in so morali zaradi pravočasnega zagona ionske proizvodnje prestaviti začetek del tako daleč v preteklost, da čalezmske katedrale sploh ni bilo mogoče zgraditi. Razglednice z njeno sliko so nenadoma postale neznansko dragocene. 
+> ~Sprožili so kampanjo za resnični čas, da se take stvari ne bi več dogajale. Njihovo stališče se je še utrdilo teden dni po začetku kampanje, ko se je razširila novica, da so zaradi gradnje nove ionske rafinerije podrli veličastno čalezmsko katedralo in ne samo to: v resnici se je gradnja rafinerije tako zavlekla in so morali zaradi pravočasnega zagona ionske proizvodnje prestaviti začetek del tako daleč v preteklost, da čalezmske katedrale sploh ni bilo mogoče zgraditi. Razglednice z njeno sliko so nenadoma postale neznansko dragocene.~ 
+
 
 ## Citat za epizodo 088 (s03e18)
 
@@ -36,7 +37,8 @@ Več informacij, kako posneti in poslati citat pa [na dnu strani](https://hvalaz
 
 #### Rok za pošiljanje: sobota, 29. januar 2022 do 22:29
 
-Nismo ga še izbrali, zato si ga lahko izbereš sam_a. 18. poglavje tretje knjige _O življenju, vesolju in sploh vsem_ govori o neki drugi katedrali. Katedrali sovraštva, kjer je svom dom našel **Agradžag**. 🎙 
+> Kjer pa ni bila črna, ste si želeli, da bi bila, kajti barve, s katerimi so bile poudarjene nekatere neizrekljive podrobnosti, so segale prek celega spektra vsiljene svetlobe od ultra mozoljične do infra moreče, vmes pa so bile še žolčno zelena, gangrensko škrlatna, žgana hijena in cianidno modra. Neizrekljive podrobnosti, ki so jih te barve poudarjale, so bili gargojli, ki bi spravili ob tek samega Francisa Bacona. 
+
 
 ## Citat za epizodo 089 (s03e19)
 
@@ -53,7 +55,8 @@ Poglavje govori o kriketu in ustanovnem uredniku vodnika z imenom Zagnani Frootm
 
 #### Rok za pošiljanje: sobota, 12. februrar 2022 do 22:12
 
- Citata še nismo izbrali, v poglavju pa Arturja lovi plaz in beži pred njim. Med bežanjem se spotakne in popolnoma zgreši tla. Namig je tako jasen, lahko pa seveda izberete tudi kakšen drug del poglavja, ne bomo nič hudi. 🎙 
+Citata še nismo izbrali, v poglavju pa Arturja lovi plaz in beži pred njim. Med bežanjem se spotakne in popolnoma zgreši tla. Namig je tako jasen, lahko pa seveda izberete tudi kakšen drug del poglavja, ne bomo nič hudi. 🎙 
+
 
 ## Kako posneti in poslati citat
 
