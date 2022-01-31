@@ -48,7 +48,7 @@ V poglavju pa Arturja, ki je v bistvu bivša Katedrala sovraštva, lovi plaz in 
 
 #### ~~Rok za pošiljanje: sobota, 19. februrar 2022 do 22:19~~
 
-Citat že imamo. Poslal ga je poslušalec in to dobrih 14 dni pred epizod. Juhuuu.
+Citat že imamo. Poslal ga je poslušalec in to dobrih 14 dni pred epizodo. Juhuuu.
 
 ## Citat za epizodo 092 (s03e22)
 
