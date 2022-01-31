@@ -20,34 +20,17 @@ Kratka navodila:
 
 Več informacij, kako posneti in poslati citat pa [na dnu strani](https://hvalazavseribe.si/citat/#kako-posneti-in-poslati-citat). Seznam aktualnih citatov pa spodaj. 👇
 
-## Citat za epizodo 087 (s03e17)
-
-### 17. poglavje 3. knjige
-
-#### Rok za pošiljanje: sobota, 22. januar 2022 do 22:22
-
-**Z veseljem in radostjo v srcu, sporočamo, da je nekdo že prebral citat, ... a ga vseeno lahko še vi.** 
-
-> Sprožili so kampanjo za resnični čas, da se take stvari ne bi več dogajale. Njihovo stališče se je še utrdilo teden dni po začetku kampanje, ko se je razširila novica, da so zaradi gradnje nove ionske rafinerije podrli veličastno čalezmsko katedralo in ne samo to: v resnici se je gradnja rafinerije tako zavlekla in so morali zaradi pravočasnega zagona ionske proizvodnje prestaviti začetek del tako daleč v preteklost, da čalezmske katedrale sploh ni bilo mogoče zgraditi. Razglednice z njeno sliko so nenadoma postale neznansko dragocene.
-
-
-## Citat za epizodo 088 (s03e18)
-
-### 18. poglavje 3. knjige
-
-#### Rok za pošiljanje: sobota, 29. januar 2022 do 22:29
-
-> Kjer pa ni bila črna, ste si želeli, da bi bila, kajti barve, s katerimi so bile poudarjene nekatere neizrekljive podrobnosti, so segale prek celega spektra vsiljene svetlobe od ultra mozoljične do infra moreče, vmes pa so bile še žolčno zelena, gangrensko škrlatna, žgana hijena in cianidno modra. Neizrekljive podrobnosti, ki so jih te barve poudarjale, so bili gargojli, ki bi spravili ob tek samega Francisa Bacona. 
-
-
 ## Citat za epizodo 089 (s03e19)
 
 ### 19. poglavje 3. knjige
 
 #### Rok za pošiljanje: sobota, 5. februrar 2022 do 22:05
 
-Poglavje govori o kriketu in ustanovnem uredniku vodnika z imenom Zagnani Frootmig. Govori tudi o kosilih. In pravilih brokijskega ultrakriketa. Citata še nismo izbrali, zato imaš možnost, da si ga izbereš sam_a. 🎙 
+Poglavje govori o kriketu in ustanovnem uredniku vodnika z imenom **Zagnani Frootmig**. Govori tudi o kosilih. In pravilih brokijskega ultrakriketa. Na izbiro sta dva citata.
 
+> V resnici se Lig nikoli ni uradno umaknil z uredniškega mesta — le nekega poznega jutra je zapustil pisarno in se nikoli več ni vrnil. Čeprav je odtlej minilo že več kot stoletje, se številni člani Vodnikove redakcije še vedno vdajajo romantični utvari, da je skočil samo na manjšo žemljico s šunko in se bo še vrnil, da opravi svojo krepko mero popoldanskega garanja.
+
+> Nobeno teh dejstev, pa naj bodo še tako nenavadna ali zagonetna, pa ni tako nenavadno in zagonetno, kot so pravila brokijskega ultrakriketa, ki ga igrajo v višjih dimenzijah. Celotna zbirka pravil je tako neznansko zamotana, da so že ob prvem poskusu, da jih izdajo v eni sami knjigi, doživela gravitacijski kolaps in postala črna luknja.
 
 ## Citat za epizodo 090 (s03e20)
 
@@ -55,8 +38,25 @@ Poglavje govori o kriketu in ustanovnem uredniku vodnika z imenom Zagnani Frootm
 
 #### Rok za pošiljanje: sobota, 12. februrar 2022 do 22:12
 
-Citata še nismo izbrali, v poglavju pa Arturja lovi plaz in beži pred njim. Med bežanjem se spotakne in popolnoma zgreši tla. Namig je tako jasen, lahko pa seveda izberete tudi kakšen drug del poglavja, ne bomo nič hudi. 🎙 
+V poglavju pa Arturja, ki je v bistvu bivša Katedrala sovraštva, lovi plaz in beži pred njim. Med bežanjem se spotakne in popolnoma zgreši tla. Namig za cicat je jasen, lahko pa seveda izberete tudi kakšen drug del poglavja, ne bomo nič hudi. 🎙 
 
+> Ravno v trenutku, ko bi moral strašansko trdo treščiti na tla, je prav pred seboj zagledal malo mornarsko modro potovalko, za katero je vedel, da jo je bil pred kakimi desetimi leti po svojem osebnem časovnem štetju izgubil v prtljažnem oddelku na atenskem letališču — in na veliko presenečenje je popolnoma zgrešil tla ter z divjo glasbo v glavi
+
+## Citat za epizodo 091 (s03e21)
+
+### 21. poglavje 3. knjige
+
+#### ~~Rok za pošiljanje: sobota, 19. februrar 2022 do 22:19~~
+
+Citat že imamo. Poslal ga je poslušalec in to dobrih 14 dni pred epizod. Juhuuu.
+
+## Citat za epizodo 092 (s03e22)
+
+### 22. poglavje 3. knjige
+
+#### Rok za pošiljanje: sobota, 26. februrar 2022 do 22:26
+
+V tem poglavju se Artur zaleti in po nekem čudnem naključju pride na najdaljšo in najbolj uničujočo zabavo vseh časov. Citata še nismo izbrali, zato vabljeni da si ga izberete sami. 
 
 ## Kako posneti in poslati citat
 
@@ -70,4 +70,3 @@ Citat posnameš in pošlješ na enega od sledečih načinov:
 Najlepša hvala za tvoj prispevek k našem malem podkastu (in za vse ribe)! 🐟
 
 P.S.: Vse epizode podkasta najdeš na [opravicujemo.se](https://opravicujemo.se/)!
-
