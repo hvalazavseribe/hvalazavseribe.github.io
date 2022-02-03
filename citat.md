@@ -40,7 +40,7 @@ Poglavje govori o kriketu in ustanovnem uredniku vodnika z imenom **Zagnani Froo
 
 V poglavju pa Arturja, ki je v bistvu bivša Katedrala sovraštva, lovi plaz in beži pred njim. Med bežanjem se spotakne in popolnoma zgreši tla. Namig za cicat je jasen, lahko pa seveda izberete tudi kakšen drug del poglavja, ne bomo nič hudi. 🎙 
 
-> Ravno v trenutku, ko bi moral strašansko trdo treščiti na tla, je prav pred seboj zagledal malo mornarsko modro potovalko, za katero je vedel, da jo je bil pred kakimi desetimi leti po svojem osebnem časovnem štetju izgubil v prtljažnem oddelku na atenskem letališču — in na veliko presenečenje je popolnoma zgrešil tla ter z divjo glasbo v glavi
+> Ravno v trenutku, ko bi moral strašansko trdo treščiti na tla, je prav pred seboj zagledal malo mornarsko modro potovalko, za katero je vedel, da jo je bil pred kakimi desetimi leti po svojem osebnem časovnem štetju izgubil v prtljažnem oddelku na atenskem letališču — in na veliko presenečenje je popolnoma zgrešil tla ter z divjo glasbo v glavi zaplaval po zraku. Temu, kar se mu je pripetilo, se reče: vzletel je.
 
 ## Citat za epizodo 091 (s03e21)
 
