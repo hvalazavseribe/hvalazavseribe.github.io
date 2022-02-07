@@ -20,27 +20,15 @@ Kratka navodila:
 
 Več informacij, kako posneti in poslati citat pa [na dnu strani](https://hvalazavseribe.si/citat/#kako-posneti-in-poslati-citat). Seznam aktualnih citatov pa spodaj. 👇
 
-## Citat za epizodo 089 (s03e19)
-
-### 19. poglavje 3. knjige
-
-#### Rok za pošiljanje: sobota, 5. februrar 2022 do 22:05
-
-Poglavje govori o kriketu in ustanovnem uredniku vodnika z imenom **Zagnani Frootmig**. Govori tudi o kosilih. In pravilih brokijskega ultrakriketa. Na izbiro sta dva citata.
-
-> V resnici se Lig nikoli ni uradno umaknil z uredniškega mesta — le nekega poznega jutra je zapustil pisarno in se nikoli več ni vrnil. Čeprav je odtlej minilo že več kot stoletje, se številni člani Vodnikove redakcije še vedno vdajajo romantični utvari, da je skočil samo na manjšo žemljico s šunko in se bo še vrnil, da opravi svojo krepko mero popoldanskega garanja.
-
-> Nobeno teh dejstev, pa naj bodo še tako nenavadna ali zagonetna, pa ni tako nenavadno in zagonetno, kot so pravila brokijskega ultrakriketa, ki ga igrajo v višjih dimenzijah. Celotna zbirka pravil je tako neznansko zamotana, da so že ob prvem poskusu, da jih izdajo v eni sami knjigi, doživela gravitacijski kolaps in postala črna luknja.
-
 ## Citat za epizodo 090 (s03e20)
 
 ### 20. poglavje 3. knjige
 
 #### Rok za pošiljanje: sobota, 12. februrar 2022 do 22:12
 
-V poglavju pa Arturja, ki je v bistvu bivša Katedrala sovraštva, lovi plaz in beži pred njim. Med bežanjem se spotakne in popolnoma zgreši tla. Namig za cicat je jasen, lahko pa seveda izberete tudi kakšen drug del poglavja, ne bomo nič hudi. 🎙 
+V tem poglavju Arturja lovi plaz in beži pred njim. Med bežanjem se spotakne in popolnoma zgreši tla. Namig za cicat je jasen, lahko pa seveda izberete tudi kakšen drug del poglavja, ne bomo nič hudi. 🎙 
 
-> Ravno v trenutku, ko bi moral strašansko trdo treščiti na tla, je prav pred seboj zagledal malo mornarsko modro potovalko, za katero je vedel, da jo je bil pred kakimi desetimi leti po svojem osebnem časovnem štetju izgubil v prtljažnem oddelku na atenskem letališču — in na veliko presenečenje je popolnoma zgrešil tla ter z divjo glasbo v glavi zaplaval po zraku. Temu, kar se mu je pripetilo, se reče: vzletel je.
+> Ravno v trenutku, ko bi moral strašansko trdo treščiti na tla, je prav pred seboj zagledal malo mornarsko modro potovalko, za katero je vedel, da jo je bil pred kakimi desetimi leti po svojem osebnem časovnem štetju izgubil v prtljažnem oddelku na atenskem letališču — in na veliko presenečenje je popolnoma zgrešil tla ter z divjo glasbo v glavi zaplaval po zraku. Temu, kar se mu je pripetilo, se reče: **vzletel je**.
 
 ## Citat za epizodo 091 (s03e21)
 
