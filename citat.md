@@ -55,8 +55,8 @@ Citat posnameš in pošlješ na enega od sledečih načinov:
 - Če nisi za te starinske tehnologije se lahko posnameš na telefon 📱 (ali računalnik 💻, ali tablico ... te dni so mikrofoni že tako dobri da za citat ne potrebuješ profesionalnega mikrofona (čeprav škodi ne)) in nam posnetek pošlješ na 📭 e-naslov **<a href="javascript:location='mailto:\u0068\u0076\u0061\u006c\u0061\u007a\u0061\u0076\u0073\u0065\u0072\u0069\u0062\u0065\u0040\u007a\u0076\u0070\u006c\u002e\u0063\u006f\u006d';void 0">hvalazavseribe[afna]zvpl.com</a>**.
 - Lahko obiščeš tudi [našo Anchor stran](https://anchor.fm/opravicujemose), kjer nam lahko pošlješ svoj posnetek (le registrirat se moraš na Anchor, da lahko pošlješ posnetek). 
 
-<figure class="video_container">
-<iframe width="100%" height="auto" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://telbee.io/channel/feqfokujnmeeysuwksennq-h/index.html" style="border: none"></iframe>
+<figure class="telbee">
+<iframe width="48em" height="auto" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://telbee.io/channel/feqfokujnmeeysuwksennq-h/index.html" style="border: none"></iframe>
 </figure>
 
 Najlepša hvala za tvoj prispevek k našem malem podkastu (in za vse ribe)! 🐟
