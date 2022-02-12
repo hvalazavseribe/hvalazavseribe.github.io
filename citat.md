@@ -56,7 +56,7 @@ Citat posnameš in pošlješ na enega od sledečih načinov:
 - Lahko obiščeš tudi [našo Anchor stran](https://anchor.fm/opravicujemose), kjer nam lahko pošlješ svoj posnetek (le registrirat se moraš na Anchor, da lahko pošlješ posnetek). 
 
 <figure class="video_container">
-<iframe width="710" height="810" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://telbee.io/channel/feqfokujnmeeysuwksennq-h/index.html" style="border: none"></iframe>
+<iframe width="100%" height="auto" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://telbee.io/channel/feqfokujnmeeysuwksennq-h/index.html" style="border: none"></iframe>
 </figure>
 
 Najlepša hvala za tvoj prispevek k našem malem podkastu (in za vse ribe)! 🐟
