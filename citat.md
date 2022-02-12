@@ -26,7 +26,7 @@ Več informacij, kako posneti in poslati citat pa [na dnu strani](https://hvalaz
 
 #### Rok za pošiljanje: sobota, 12. februrar 2022 do 22:12
 
-V tem poglavju Arturja lovi plaz in beži pred njim. Med bežanjem se spotakne in popolnoma zgreši tla. Namig za cicat je jasen, lahko pa seveda izberete tudi kakšen drug del poglavja, ne bomo nič hudi. 🎙 
+V tem poglavju Arturja lovi plaz in beži pred njim. Med bežanjem se spotakne in popolnoma zgreši tla. Namig za citat je jasen, lahko pa seveda izberete tudi kakšen drug del poglavja, ne bomo nič hudi. 🎙 
 
 > Ravno v trenutku, ko bi moral strašansko trdo treščiti na tla, je prav pred seboj zagledal malo mornarsko modro potovalko, za katero je vedel, da jo je bil pred kakimi desetimi leti po svojem osebnem časovnem štetju izgubil v prtljažnem oddelku na atenskem letališču — in na veliko presenečenje je popolnoma zgrešil tla ter z divjo glasbo v glavi zaplaval po zraku. Temu, kar se mu je pripetilo, se reče: **vzletel je**.
 
