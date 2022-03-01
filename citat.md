@@ -20,29 +20,40 @@ Kratka navodila:
 
 Več informacij, kako posneti in poslati citat pa [na dnu strani](https://hvalazavseribe.si/citat/#kako-posneti-in-poslati-citat). Seznam aktualnih citatov pa spodaj. 👇
 
-## Citat za epizodo 091 (s03e21)
+## Citat za epizodo 093
 
-### 21. poglavje 3. knjige
+### 23. poglavje 3. knjige
 
-#### ~~Rok za pošiljanje: sobota, 19. februrar 2022 do 22:19~~
+#### Rok za pošiljanje: nedelja, 6. marec 2022 do 22:06
 
-Citat že imamo. Poslal ga je poslušalec in to dobrih 14 dni pred epizodo. Juhuuu.
+> Jezilo ga je, da ga je Ford oštel zaradi onegavljenja z Bogom groma, ko bi jo vsi skupaj lahko dosti hitreje popihali. Arthur pa je menil, in to mnenje je ponujal vsem po vrsti v presojo, da je ravnal izjemno pogumno in domiselno. 
+> Po prevladujoči oceni njegovo mnenje ni bilo vredno niti smrdljivih dingovih ledvičk. Še bolj pa ga je bolelo, da Trillian ni hotela reči ne bele ne črne, ampak se je izmaknila nekam na samo.
 
-## Citat za epizodo 092 (s03e22)
+## Citat za epizodo 094
 
-### 22. poglavje 3. knjige
+### 24. poglavje 3. knjige
 
-#### Rok za pošiljanje: sobota, 26. februrar 2022 do 22:26
+#### Rok za pošiljanje: nedelja, 13. marec 2022 do 22:13
 
-V tem poglavju se Artur zaleti in po nekem čudnem naključju pride na najdaljšo in najbolj uničujočo zabavo vseh časov. Citata še nismo izbrali, zato vabljeni da si ga izberete sami. 
+> Vražjebojni Silastiki s Striteraksa pa so zasloveli še s svojim drugim dosežkom: postali so prva civilizacija, ki je zmogla presuniti računalnik.
+> 
+> To je bil velikanski, prosto v vesolju plavajoči računalnik, Haktar po imenu, ki je še dandanašnji znan kot eden najzmogljivejših računalnikov vseh časov. Bil je prvi, ki je bil zgrajen po vzorcu naravnih možganov, s tem, da je sleherni celični delec vseboval shemo celote, kar mu je omogočilo, da je razmišljal prožneje in iznajdljiveje, pa tudi to, da je mogel biti presunjen.
+
+## Citat za epizodo 095
+
+### 25. poglavje 3. knjige
+
+#### Rok za pošiljanje: nedelja, 20. marec 2022 do 22:20
+
+> Njegovi deli so žareli in se pobliskavali: Jekleni steber (oziroma Marvinova noga) čvrstosti in moči, Zlati tram (ali srce neskončno neverjetnostnega pogona) blagostanja, Pleksijev steber (ali argabutonsko žezlo pravice) znanosti in razuma, Srebrni tram (ali nagrada Rory za najbolj brezzvezno rabo besede »fuk« v resnem scenariju) in prenovljeni Leseni steber (ali pepel kriketskega čoka, ki naj bi označil smrt angleškega kriketa) narave in duha.
 
 ## Kako posneti in poslati citat
 
 Citat posnameš in pošlješ na enega od sledečih načinov:
 
-- Pokliči na naš telefonski odzivnik, se predstavi in preberi citat iz prihajajočega poglavja (najdeš jih zgoraj). Telefonska številka je ☎️ <a href="tel:059968685" target="_blank" rel="noopener noreferrer">05 99 68 68 5</a>!
 - Poklikaj na naš digitalni odzivnik kar s telefona 📞 ali računalnika 🖥. Odzivnik najdeš na <a href="https://hvalazavseribe.si/odzivnik/" target="_blank">hvalazavseribe.si/odzivnik</a>
 - Če nisi za te starinske tehnologije se lahko posnameš na telefon 📱 (ali računalnik 💻, ali tablico ... te dni so mikrofoni že tako dobri da za citat ne potrebuješ profesionalnega mikrofona (čeprav škodi ne)) in nam posnetek pošlješ na 📭 e-naslov **<a href="javascript:location='mailto:\u0068\u0076\u0061\u006c\u0061\u007a\u0061\u0076\u0073\u0065\u0072\u0069\u0062\u0065\u0040\u007a\u0076\u0070\u006c\u002e\u0063\u006f\u006d';void 0">hvalazavseribe[afna]zvpl.com</a>**.
+- Pokliči na naš telefonski odzivnik, se predstavi in preberi citat iz prihajajočega poglavja (najdeš jih zgoraj). Telefonska številka je ☎️ <a href="tel:059968685" target="_blank" rel="noopener noreferrer">05 99 68 68 5</a>!
 - Lahko obiščeš tudi [našo Anchor stran](https://anchor.fm/opravicujemose), kjer nam lahko pošlješ svoj posnetek (le registrirat se moraš na Anchor, da lahko pošlješ posnetek). 
 
 Najlepša hvala za tvoj prispevek k našem malem podkastu (in za vse ribe)! 🐟
