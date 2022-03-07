@@ -20,15 +20,6 @@ Kratka navodila:
 
 Več informacij, kako posneti in poslati citat pa [na dnu strani](https://hvalazavseribe.si/citat/#kako-posneti-in-poslati-citat). Seznam aktualnih citatov pa spodaj. 👇
 
-## Citat za epizodo 093
-
-### 23. poglavje 3. knjige
-
-#### Rok za pošiljanje: nedelja, 6. marec 2022 do 22:06
-
-> Jezilo ga je, da ga je Ford oštel zaradi onegavljenja z Bogom groma, ko bi jo vsi skupaj lahko dosti hitreje popihali. Arthur pa je menil, in to mnenje je ponujal vsem po vrsti v presojo, da je ravnal izjemno pogumno in domiselno. 
-> Po prevladujoči oceni njegovo mnenje ni bilo vredno niti smrdljivih dingovih ledvičk. Še bolj pa ga je bolelo, da Trillian ni hotela reči ne bele ne črne, ampak se je izmaknila nekam na samo.
-
 ## Citat za epizodo 094
 
 ### 24. poglavje 3. knjige
