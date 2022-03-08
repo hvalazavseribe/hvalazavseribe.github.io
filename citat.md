@@ -20,7 +20,7 @@ Kratka navodila:
 
 Več informacij, kako posneti in poslati citat pa [na dnu strani](https://hvalazavseribe.si/citat/#kako-posneti-in-poslati-citat). Seznam aktualnih citatov pa spodaj. 👇
 
-## Citat za epizodo 094 {#094}
+## Citat za epizodo 094
 
 ### 24. poglavje 3. knjige
 
@@ -30,7 +30,7 @@ Več informacij, kako posneti in poslati citat pa [na dnu strani](https://hvalaz
 > 
 > To je bil velikanski, prosto v vesolju plavajoči računalnik, Haktar po imenu, ki je še dandanašnji znan kot eden najzmogljivejših računalnikov vseh časov. Bil je prvi, ki je bil zgrajen po vzorcu naravnih možganov, s tem, da je sleherni celični delec vseboval shemo celote, kar mu je omogočilo, da je razmišljal prožneje in iznajdljiveje, pa tudi to, da je mogel biti presunjen.
 
-## Citat za epizodo 095 {#095}
+## Citat za epizodo 095
 
 ### 25. poglavje 3. knjige
 
