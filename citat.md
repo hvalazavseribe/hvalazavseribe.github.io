@@ -38,6 +38,14 @@ Več informacij, kako posneti in poslati citat pa [na dnu strani](https://hvalaz
 
 > Njegovi deli so žareli in se pobliskavali: Jekleni steber (oziroma Marvinova noga) čvrstosti in moči, Zlati tram (ali srce neskončno neverjetnostnega pogona) blagostanja, Pleksijev steber (ali argabutonsko žezlo pravice) znanosti in razuma, Srebrni tram (ali nagrada Rory za najbolj brezzvezno rabo besede »fuk« v resnem scenariju) in prenovljeni Leseni steber (ali pepel kriketskega čoka, ki naj bi označil smrt angleškega kriketa) narave in duha.
 
+## Citat za epizodo 096
+
+### 26. poglavje 3. knjige
+
+#### Rok za pošiljanje: nedelja, 27. marec 2022 do 22:20
+
+Citata za 26. poglavje knjige _O življenju, vesolju in sploh vsem_ še nismo izbrali, vendar pa lahko namignemo, da se v epizodi pojavi 🚨 **kvarnik** 🚨 nekdo, ki je bil do sedaj dvakrat ustreljen in domnevno mrtev. Tako vas vabimo, da citat izberete sami, ... če počakate kakšen teden, pa ga bomo (najbrž) tudi mi. Hvala.
+
 ## Kako posneti in poslati citat
 
 Citat posnameš in pošlješ na enega od sledečih načinov:
