@@ -46,6 +46,15 @@ Več informacij, kako posneti in poslati citat pa [na dnu strani](https://hvalaz
 
 Citata za 26. poglavje knjige _O življenju, vesolju in sploh vsem_ še nismo izbrali, vendar pa lahko namignemo, da se v epizodi pojavi 🚨 **kvarnik** 🚨 nekdo, ki je bil do sedaj dvakrat ustreljen in domnevno mrtev. Tako vas vabimo, da citat izberete sami, ... če počakate kakšen teden, pa ga bomo (najbrž) tudi mi. Hvala.
 
+## Citat za epizodo 097
+
+### 27. poglavje 3. knjige
+
+#### Rok za pošiljanje: nedelja, 3. april 2022 do 22:20
+
+> Na lepem, tako kot prej na posnetku, so se na stezi pod njimi prikazale lučke, le da to ni bila poplesujoča svetloba leščerb, pač pa ostri snopi električnih svetilk — sprememba ni bila posebno dramatična, vendar je gručici pod drevesom vsaka podrobnost pognala srca v divji tek. Tokrat se ni razlegala ubrana pesem o cvetlicah in poljskem delu in mrtvem psičku, slišati je bilo le pritajene glasove v burni debati. Čez nebo se je s težko počasnostjo zapeljala medla lučka.
+> Arthurja je zgrabila klavstrofobična groza, topli veter mu je zaprl sapo.
+
 ## Kako posneti in poslati citat
 
 Citat posnameš in pošlješ na enega od sledečih načinov:
