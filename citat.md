@@ -20,23 +20,13 @@ Kratka navodila:
 
 Več informacij, kako posneti in poslati citat pa [na dnu strani](https://hvalazavseribe.si/citat/#kako-posneti-in-poslati-citat). Seznam aktualnih citatov pa spodaj. 👇
 
-## Citat za epizodo 094
-
-### 24. poglavje 3. knjige
-
-#### Rok za pošiljanje: nedelja, 13. marec 2022 do 22:13
-
-> Vražjebojni Silastiki s Striteraksa pa so zasloveli še s svojim drugim dosežkom: postali so prva civilizacija, ki je zmogla presuniti računalnik.
-> 
-> To je bil velikanski, prosto v vesolju plavajoči računalnik, Haktar po imenu, ki je še dandanašnji znan kot eden najzmogljivejših računalnikov vseh časov. Bil je prvi, ki je bil zgrajen po vzorcu naravnih možganov, s tem, da je sleherni celični delec vseboval shemo celote, kar mu je omogočilo, da je razmišljal prožneje in iznajdljiveje, pa tudi to, da je mogel biti presunjen.
-
 ## Citat za epizodo 095
 
 ### 25. poglavje 3. knjige
 
 #### Rok za pošiljanje: nedelja, 20. marec 2022 do 22:20
 
-> Njegovi deli so žareli in se pobliskavali: Jekleni steber (oziroma Marvinova noga) čvrstosti in moči, Zlati tram (ali srce neskončno neverjetnostnega pogona) blagostanja, Pleksijev steber (ali argabutonsko žezlo pravice) znanosti in razuma, Srebrni tram (ali nagrada Rory za najbolj brezzvezno rabo besede »fuk« v resnem scenariju) in prenovljeni Leseni steber (ali pepel kriketskega čoka, ki naj bi označil smrt angleškega kriketa) narave in duha.
+> Ključ je bil spet sestavljen. Njegovi deli so žareli in se pobliskavali: Jekleni steber čvrstosti in moči (oziroma Marvinova noga), Zlati tram blagostanja (ali srce neskončno neverjetnostnega pogona), Pleksijev steber znanosti in razuma (ali argabutonsko žezlo pravice), Srebrni tram (ali nagrada Rory za najbolj brezzvezno rabo besede »fuk« v resnem scenariju) in prenovljeni Leseni steber narave in duha (ali pepel kriketskega čoka, ki naj bi označil smrt angleškega kriketa).
 
 ## Citat za epizodo 096
 
