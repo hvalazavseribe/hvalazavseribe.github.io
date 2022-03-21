@@ -20,14 +20,6 @@ Kratka navodila:
 
 Več informacij, kako posneti in poslati citat pa [na dnu strani](https://hvalazavseribe.si/citat/#kako-posneti-in-poslati-citat). Seznam aktualnih citatov pa spodaj. 👇
 
-## Citat za epizodo 095
-
-### 25. poglavje 3. knjige
-
-#### Rok za pošiljanje: sobota, 19. marec 2022 do 22:20
-
-> Ključ je bil spet sestavljen. Njegovi deli so žareli in se pobliskavali: Jekleni steber čvrstosti in moči (oziroma Marvinova noga), Zlati tram blagostanja (ali srce neskončno neverjetnostnega pogona), Pleksijev steber znanosti in razuma (ali argabutonsko žezlo pravice), Srebrni tram (ali nagrada Rory za najbolj brezzvezno rabo besede »fuk« v resnem scenariju) in prenovljeni Leseni steber narave in duha (ali pepel kriketskega čoka, ki naj bi označil smrt angleškega kriketa).
-
 ## Citat za epizodo 096
 
 ### 26. poglavje 3. knjige
