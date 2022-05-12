@@ -12,7 +12,7 @@ Zdravo! Hvala, ker razmišljaš o tem, da bi prebral_a citat [za naš mali podka
 
 **Kako posnamem in pošljem citat**
 
-Citat posnameš na naš brezplačni telefonski odzivnik ☎️ <a href="tel:059968685" target="_blank" rel="noopener noreferrer">05 99 68 68 5</a> ali na naš <a href="https://hvalazavseribe.si/odzivnik/">digitalni telefonski odzivnik</a>! Hvala! 📞🙏! 
+Citat posnameš na naš <a href="https://hvalazavseribe.si/odzivnik/">digitalni telefonski odzivnik</a> ali pa se posnameš na telefon in pošlješ na e-naslov <a href="javascript:location='mailto:\u0068\u0076\u0061\u006c\u0061\u007a\u0061\u0076\u0073\u0065\u0072\u0069\u0062\u0065\u0040\u007a\u0076\u0070\u006c\u002e\u0063\u006f\u006d';void 0">hvalazavseribe[afna]zvpl.com</a>! Hvala! 📞🙏! 
 
 Kratka navodila:
 - 1️⃣ Predstavi se, če želiš, povej kaj o sebi, (kje si na internetu, ...) in 
@@ -20,22 +20,21 @@ Kratka navodila:
 
 Več informacij, kako posneti in poslati citat pa [na dnu strani](https://hvalazavseribe.si/citat/#kako-posneti-in-poslati-citat). Seznam aktualnih citatov pa spodaj. 👇
 
-## Citat za epizodo 096
+## Citat za epizodo 104
 
-### 26. poglavje 3. knjige
+### Prolog 4. knjige
 
-#### Rok za pošiljanje: sobota, 26. marec 2022 do 22:20
+#### Rok za pošiljanje: ... ti sam pošlji, čimprej :) 
 
-Citata za 26. poglavje knjige _O življenju, vesolju in sploh vsem_ še nismo izbrali, vendar pa lahko namignemo, da se v epizodi pojavi 🚨 **kvarnik** 🚨 nekdo, ki je bil do sedaj dvakrat ustreljen in domnevno mrtev. Tako vas vabimo, da citat izberete sami, ... če počakate kakšen teden, pa ga bomo (najbrž) tudi mi. Hvala.
-
-## Citat za epizodo 097
-
-### 27. poglavje 3. knjige
-
-#### Rok za pošiljanje: sobota, 2. april 2022 do 22:20
-
-> Na lepem, tako kot prej na posnetku, so se na stezi pod njimi prikazale lučke, le da to ni bila poplesujoča svetloba leščerb, pač pa ostri snopi električnih svetilk — sprememba ni bila posebno dramatična, vendar je gručici pod drevesom vsaka podrobnost pognala srca v divji tek. Tokrat se ni razlegala ubrana pesem o cvetlicah in poljskem delu in mrtvem psičku, slišati je bilo le pritajene glasove v burni debati. Čez nebo se je s težko počasnostjo zapeljala medla lučka.
-> Arthurja je zgrabila klavstrofobična groza, topli veter mu je zaprl sapo.
+> Tam zunaj v neraziskanih zaplotjih nekega popolnoma nemodernega predela Galaksije onkraj Zahodnega spiralnega rokava plava majhno neugledno rumeno sonce. 
+> Okrog njega kroži v razdalji kakih dvaindevetdeset milijonov milj skrajno nepomemben modrozelen planetič, katerega iz opic izvirajoče življenjske oblike so tako obupno zaostale, da se jim zdijo digitalne zapestne ure kar bistra pogruntavščina. 
+> S tem planetom je — bolje rečeno, je bilo — nekaj narobe: večina ljudi na njem je bila večinoma nesrečna.
+> Seveda so se številni prebivalci planeta spoprijeli s tem problemom, v rešitvah, ki so jih predlagali, pa je vedno znova šlo za premetavanje majhnih zelenih koščkov papirja, kar je čudno, saj navsezadnje ti zeleni papirčki niso bili prav nič nesrečni. 
+> In tako je težava ostajala; precej ljudi je bilo hudobnih in večina nesrečnih, tudi tisti z digitalnimi urami.
+> Čedalje številnejši so bili tisti, ki so videli poglavitno napako v odločitvi, da je treba zlesti z dreves na trdna tla. Nekateri so trdili celo, da je bil položaj zavožen že na drevju in da predvsem nihče ne bi smel zlesti iz morja.
+> In potem je nekega četrtka, skoraj dva tisoč let po tistem, ko so nekega človeka pribili na drevo, ker je govoril, kako lepo bi bilo, če bi bili za spremembo prijazni med seboj, neko dekle, ki je samo sedelo v majhni kavarni v Rickmansworthu, nenadoma spoznalo, kaj je bilo ves čas narobe; posvetilo se ji je, kako bi lahko spremenili svet v prijazen in srečen kraj. Tokrat je bila rešitev prava, popolnoma izvedljiva in povrhu ne bi bilo treba nikogar nikamor pribiti.
+> Še preden pa je mogla svojo zamisel komu sporočiti, se je na žalost pripetila strašna, bedasta katastrofa, in rešitev je bila za vedno zgubljena. 
+> Tole je njena zgodba.
 
 ## Kako posneti in poslati citat
 
