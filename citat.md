@@ -27,13 +27,21 @@ Več informacij, kako posneti in poslati citat pa [na dnu strani](https://hvalaz
 #### Rok za pošiljanje: ... ti sam pošlji, čimprej :) 
 
 > Tam zunaj v neraziskanih zaplotjih nekega popolnoma nemodernega predela Galaksije onkraj Zahodnega spiralnega rokava plava majhno neugledno rumeno sonce. 
+> 
 > Okrog njega kroži v razdalji kakih dvaindevetdeset milijonov milj skrajno nepomemben modrozelen planetič, katerega iz opic izvirajoče življenjske oblike so tako obupno zaostale, da se jim zdijo digitalne zapestne ure kar bistra pogruntavščina. 
+> 
 > S tem planetom je — bolje rečeno, je bilo — nekaj narobe: večina ljudi na njem je bila večinoma nesrečna.
+> 
 > Seveda so se številni prebivalci planeta spoprijeli s tem problemom, v rešitvah, ki so jih predlagali, pa je vedno znova šlo za premetavanje majhnih zelenih koščkov papirja, kar je čudno, saj navsezadnje ti zeleni papirčki niso bili prav nič nesrečni. 
+> 
 > In tako je težava ostajala; precej ljudi je bilo hudobnih in večina nesrečnih, tudi tisti z digitalnimi urami.
+> 
 > Čedalje številnejši so bili tisti, ki so videli poglavitno napako v odločitvi, da je treba zlesti z dreves na trdna tla. Nekateri so trdili celo, da je bil položaj zavožen že na drevju in da predvsem nihče ne bi smel zlesti iz morja.
+> 
 > In potem je nekega četrtka, skoraj dva tisoč let po tistem, ko so nekega človeka pribili na drevo, ker je govoril, kako lepo bi bilo, če bi bili za spremembo prijazni med seboj, neko dekle, ki je samo sedelo v majhni kavarni v Rickmansworthu, nenadoma spoznalo, kaj je bilo ves čas narobe; posvetilo se ji je, kako bi lahko spremenili svet v prijazen in srečen kraj. Tokrat je bila rešitev prava, popolnoma izvedljiva in povrhu ne bi bilo treba nikogar nikamor pribiti.
+> 
 > Še preden pa je mogla svojo zamisel komu sporočiti, se je na žalost pripetila strašna, bedasta katastrofa, in rešitev je bila za vedno zgubljena. 
+> 
 > Tole je njena zgodba.
 
 ## Kako posneti in poslati citat
