@@ -21,7 +21,7 @@ Hvala, ker nas poslušaš in hvala, ker si prideskal/a na našo podporno spletno
 
 Trenutno zbiramo za **prvi skupinski obisk tistega travnika v Innsbrucku**. Hvala za vse ribe! 🐬
 
-V Innsbruck gremo čez {% include counter.html %}
+V [Innsbruck](https://goo.gl/maps/x47gYGu9ku17FDCB9) gremo čez {% include counter.html %}
 
 Če pa ne, so spodaj tri stvari, ki te stanejo le 4,2 minute, nam pa bodo pomenile zelo veliko.
 
