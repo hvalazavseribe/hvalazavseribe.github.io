@@ -12,7 +12,7 @@ Hvala, ker nas poslušaš in hvala, ker si prideskal/a na našo podporno spletno
 
 ## 💸 Podpri nas!
 
-Če ti denarnica omogoča, bomo podpore veseli. 
+Če ti denarnica omogoča, bomo podpore veseli. Če ne, razumemo, smo (bili) tam ...
 
 [![Podpri nas na Patreoun]({{ "/assets/imgs/patreon@2x.png" | absolute_url }} "Patreon"){: .support}](https://www.patreon.com/opravicujemose)
 [![Podpri nas na PayPalu]({{ "/assets/imgs/paypal1@2x.png" | absolute_url }} "Paypal"){: .support}](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NQ7EA2VV6LNWA&source=url)
