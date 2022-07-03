@@ -42,12 +42,10 @@ V epizodi si lahko tudi ti!
 
 Kako?
 
-- Pokliči na naš telefonski odzivnik, se predstavi in preberi citat iz prihajajočega poglavja (seznam citatov najdete na [tej spletni povezavi](https://hvalazavseribe.si/citat/)). Telefonska številka je ☎️ <a href="tel:059968685" target="_blank" rel="noopener noreferrer">05 99 68 68 5</a>!
-- Poklikaj na naš digitalni odzivnik kar s telefona 📞 ali računalnika 🖥. Odzivnik najdeš na <a href="https://hvalazavseribe.si/odzivnik/" target="_blank">hvalazavseribe.si/odzivnik</a>
-- Če nisi za te starinske tehnologije se lahko posnameš na telefon 📱 (ali računalnik 💻, ali tablico ... te dni so mikrofoni že tako dobri, da za citat ne rabiš več kot mikrofon v telefonu in ne potrebuješ profesionalnega mikrofona (čeprav škodi ne)) in nam posnetek pošlješ na 📭 e-naslov **<a href="javascript:location='mailto:\u0068\u0076\u0061\u006c\u0061\u007a\u0061\u0076\u0073\u0065\u0072\u0069\u0062\u0065\u0040\u007a\u0076\u0070\u006c\u002e\u0063\u006f\u006d';void 0">hvalazavseribe[afna]zvpl.com</a>**.
+<!-- - Pokliči na naš telefonski odzivnik, se predstavi in preberi citat iz prihajajočega poglavja (seznam citatov najdete na [tej spletni povezavi](https://hvalazavseribe.si/citat/)). Telefonska številka je ☎️ <a href="tel:059968685" target="_blank" rel="noopener noreferrer">05 99 68 68 5</a>!
+ -->- Poklikaj na naš digitalni odzivnik kar s telefona 📞 ali računalnika 🖥. Odzivnik najdeš na <a href="https://hvalazavseribe.si/odzivnik/" target="_blank">hvalazavseribe.si/odzivnik</a>
+- Lahko se posnameš na svoj mobilni telefon 📱 (ali računalnik 💻, ali tablico ... te dni so mikrofoni že tako dobri, da za citat ne rabiš več kot mikrofon v telefonu in ne potrebuješ profesionalnega mikrofona (čeprav škodi ne)) in nam posnetek pošlješ na 📭 e-naslov **<a href="javascript:location='mailto:\u0068\u0076\u0061\u006c\u0061\u007a\u0061\u0076\u0073\u0065\u0072\u0069\u0062\u0065\u0040\u007a\u0076\u0070\u006c\u002e\u0063\u006f\u006d';void 0">hvalazavseribe[afna]zvpl.com</a>**.
 - Lahko obiščeš tudi [našo Anchor stran](https://anchor.fm/opravicujemose), kjer nam lahko pošlješ svoj posnetek (le registrirat se moraš na Anchor, da lahko pošlješ posnetek). 
-
-Seznam citatov za prebrat najdete na [hvalazavseribe.si/citat](https://hvalazavseribe.si/citat/)! 📖 
 
 Najlepša hvala za tvoj prispevek k našem malem podkastu (in za vse ribe)! 🐟
 
