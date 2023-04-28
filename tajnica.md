@@ -1,5 +1,5 @@
 ---
-title: Telbee telefonska tajnica
+title: Odzivnik
 redirect_from:
 - /tajnica/
 - /tajnik/
@@ -8,5 +8,5 @@ redirect_from:
 - /razsvetlinas/
 - /odzivnik/
 - /adela/
-redirect_to: https://telbee.io/channel/feqfokujnmeeysuwksennq/
+redirect_to: https://www.speakpipe.com/OpravicujemoSe/
 ---
