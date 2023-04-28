@@ -8,5 +8,5 @@ redirect_from:
 - /razsvetlinas/
 - /odzivnik/
 - /adela/
-redirect_to: https://www.speakpipe.com/OpravicujemoSe/
+redirect_to: https://www.speakpipe.com/OpravicujemoSe
 ---
