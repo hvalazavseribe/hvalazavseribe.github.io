@@ -88,5 +88,3 @@ Zdravooo!
 Le še dva čustvenčka, ki najbolje simbolizirata to spletno stran.
 
 # 🙏🐬 
-
-[+](https://opravicujemose.memberful.com/checkout?plan=105293) [/](https://opravicujemose.memberful.com/checkout?plan=105292)
