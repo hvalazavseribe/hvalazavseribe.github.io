@@ -15,7 +15,7 @@ Prideskal/a si na stran, ker te zanima, kakšne službe imamo na [Sportradarju](
 
 ## 👷‍♀️ Če iščeš službo ...
 
-Če iščeš službo v IT-ju, pridi delat v ljubljansko kliko [Sportradarja](https://maps.app.goo.gl/wyN8EAiXvGVcfMmbA). Imamo službe za takšne in drugačne geekice ali geeke. 
+Če iščeš službo v IT-ju, pridi delat v ljubljansko kliko [Sportradarja](https://maps.app.goo.gl/PSFvAy1yRjgYi8rNA). Imamo službe za takšne in drugačne geekice ali geeke. 
 
 Redna služba, kjer imamo kavo, čaj, piškote, sadje, svojo kuhinjo / menzo, fliper, biljard, PS4 (5 pride kmalu), celo tono športnih aktivnosti, piknike, team-buildinge, novoletne žurke, svoj bend (!!!) in še in še … Ažuren seznam odprtih delovnih mest najdete spodaj ali [na tej povezavi](https://sportradar.com/careers/#vacancies).
 
